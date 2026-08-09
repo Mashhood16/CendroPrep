@@ -1,0 +1,712 @@
+class 11 biology all topics and sub topics 
+
+Chapter 1: Cells and Sub-Cellular Organelles
+1.1 Cells - The Basic Unit of Life
+Basic Properties of Life (Movement, Respiration, Homeostasis, Growth, Reproduction, Excretion, Nutrition)
+1.2 Cell Theory
+The Three Tenets / Principles of Cell Theory
+The Modern Iteration of Cell Theory
+1.2.1 Validation of Cell Theory
+1.2.2 Exceptions to Cell Theory (Viruses, Viroids, Prions, Mature RBCs, Sieve Tube Cells, Coenocytic Hyphae of Rhizopus, Vaucheria, Protozoans)
+1.3 Microscopy
+Light Microscope / Compound Microscope (Ocular lens, objective lens, magnification, resolving power)
+1.3.1 Electron Microscopy
+Transmission Electron Microscope (TEM)
+Scanning Electron Microscope (SEM)
+Scanning Transmission Electron Microscope (STEM)
+Comparison between Light and Electron Microscope
+1.4 Ultrastructure of Animal and Plant Cells
+1.5 Cell Wall and Plasma Membrane
+1.5.1 Cell Wall
+Primary Cell Wall
+Secondary Cell Wall
+Middle Lamella
+1.5.2 Plasma Membrane (Cell Membrane)
+Chemical Composition (Proteins, Lipids, Carbohydrates)
+Structure (Fluid Mosaic Model)
+Functions of Plasma Membrane Proteins (Transport Channels, Carriers, Enzymatic, Receptors, Antigens)
+Roles of Glycolipids and Glycoproteins as Cell Surface Markers
+Regulation of Cell's Interaction with its Environment
+Techniques used in Studying Cell Membrane (Atomic Force Microscopy, Super-Resolution Fluorescent Microscopy, SEM)
+1.6 Cell Signaling
+Ligands and Receptors
+Signaling Stages (Reception, Transduction, Response)
+1.6.1 Pathway of a Signal from Outside to Inside
+Protein Signaling (Water-soluble hormones, cAMP second messengers)
+Steroid Signaling (Lipophilic/hydrophobic ligands, intracellular receptors)
+1.7 Membrane Transport Mechanism
+Simple Diffusion
+Facilitated Diffusion (Channel Proteins, Carrier Proteins)
+Osmosis (Osmotic Pressure, Water Potential)
+Active Transport
+Primary Active Transport (ATP energy, Sodium-Potassium Pump)
+Secondary Active Transport (Electrochemical gradient)
+Active Transport in Plants
+Examples of Active Transport
+1.8 Cytoplasm and Organelles
+1.8.1 Cytoplasm (Protoplasm, Cytosol)
+1.8.2 Cell Organelles
+Endoplasmic Reticulum (ER) (Rough ER, Smooth ER, Sarcoplasmic reticulum)
+Ribosomes (Eukaryotic 80S, Prokaryotic 70S, Polysomes)
+Golgi Complex / Golgi Apparatus / Golgi Bodies (Cis face, Trans face, Phragmoplast)
+Vesicles
+Lysosomes (Acidic enzymes, Autophagy/Autophagosomes, Suicidal bags, Phagocytosis)
+Peroxisomes and Glyoxysomes (Microbodies, Glyoxylate cycle)
+Vacuoles (Contractile vacuoles, Central vacuole, Cell sap, Tonoplast)
+Mitochondria (Outer/Inner membranes, Porins, Cristae, F0-F1 particles / ATP synthase, Mitochondrial matrix)
+Plid / Plastids (Proplastids, Leucoplasts, Chromoplasts, Chloroplasts - envelope, stroma, thylakoids, grana, intergrana)
+Centrioles (Microtubule triplets, Mitotic apparatus)
+Cytoskeleton (Microfilaments, Microtubules, Intermediate filaments)
+1.6.3 Nucleus
+ (Note: numbered as 1.6.3 under Section 1.8 in the text)
+Nuclear Envelope (Nuclear pores, Nucleoporin)
+Nucleoplasm
+Nucleolus (rRNA and rDNA construction)
+Chromatin and Chromosomes (Chromatids, Centromere, Kinetochores)
+1.9 Prokaryotic and Eukaryotic Cells
+Structural differences
+1.10 Stem Cells
+Different Types of Stem Cells (Adult stem cells, Embryonic stem cells, Induced pluripotent stem cells - iPSCs)
+Classification by Potential (Totipotent, Pluripotent, Multipotent, Oligopotent, Unipotent)
+Advantages and Disadvantages of iPSCs
+1.11 Endocytosis and Exocytosis
+Endocytosis (Phagocytosis, Pinocytosis, Receptor-Mediated Endocytosis)
+Exocytosis
+1.12 Cell Division
+Cell Cycle (Interphase: G1 phase, S phase, G2 phase; M phase: Mitosis, Cytokinesis)
+Mitosis (Prophase, Prometaphase, Metaphase, Anaphase, Telophase)
+Cytokinesis (Cleavage furrow)
+Meiosis
+First Meiotic Division (Interphase I, Prophase I - synapsis, crossing over, tetrad/bivalent, chiasma; Metaphase I, Anaphase I, Telophase I)
+Second Meiotic Division (Interphase II, Prophase II, Metaphase II, Anaphase II, Telophase II)
+Chapter 2: Biological Molecules
+2.1 Biochemistry / Molecular Biology
+2.2 Different Types of Bonds and Interactions Found in Biological Molecules
+2.2.1 Chemical Bonds
+2.2.1.1 Covalent Bonds
+2.2.1.2 Ionic Bonds
+2.2.2 Intermolecular and Intramolecular Interactions
+2.2.2.1 Hydrogen Bonding
+2.2.2.2 Hydrophobic Interactions
+2.2.2.3 Hydrophilic Interactions
+2.3 Protoplasm and Biological Molecules
+2.3.1 Chemical Composition of Protoplasm
+2.3.2 Fundamental Biological Molecules
+2.4 Condensation and Hydrolysis
+Macromolecules, Polymers, Monomers, Dimers
+Dehydration Synthesis vs. Hydrolysis Reactions
+2.5 Water as Medium of Life
+2.5.1 Properties of Water
+High Polarity
+Hydrogen Bonding
+Cohesion and Adhesion
+High Specific Heat Capacity
+High Heat of Vaporization
+Hydrophobic Exclusion
+Ionization
+Lower Density of Ice
+2.6 Carbohydrates
+2.6.1 Classification of Carbohydrates (Monosaccharides, Oligosaccharides, Polysaccharides)
+2.7 Monosaccharides
+Classification (Trioses, Tetroses, Pentoses, Hexoses, Heptoses; Aldoses vs. Ketoses)
+Properties of Monosaccharides
+Ring/Cyclic Forms (Furanose vs. Pyranose)
+2.8 Isomers and Stereoisomers of Glucose
+Stereoisomerism in Glucose
+(i) Anomers (α-Glucose vs. β-Glucose; Anomeric Carbon)
+(ii) Enantiomers (D-isomers vs. L-isomers)
+(iii) Diastereoisomers
+(iv) Epimers
+2.9 Properties and Roles of Disaccharides
+2.9.1 Sucrose (Cane sugar)
+2.9.2 Maltose (Malt sugar)
+2.9.3 Lactose (Milk sugar)
+2.10 Glycosidic Bonds in Disaccharides
+2.10.1 Glycosidic Linkage in Sucrose (α-1,2-glycosidic linkage)
+2.10.2 Glycosidic Linkage in Maltose (α-1,4-glycosidic linkage)
+2.10.3 Glycosidic Linkage in Lactose (β-1,4-glycosidic linkage)
+2.11 Polysaccharides
+Homopolysaccharides vs. Heteropolysaccharides
+2.11.1 Structure, Properties, and Roles of Starch (Amylose vs. Amylopectin, α-1,6 branch linkage)
+2.11.2 Structure, Properties, and Roles of Glycogen (Animal starch)
+2.11.3 Structure, Properties, and Roles of Cellulose (β-1,4-glycosidic linkages)
+2.11.4 Structure, Properties, and Roles of Chitin (N-acetyl glucosamine derivative, β-1,4 linkages)
+2.12 Proteins
+2.12.1 Structure of Proteins
+2.12.2 Amino Acids (α-carbon, functional groups, R-groups)
+2.12.3 Essential and Non-Essential Amino Acids
+2.13 Synthesis and Breakage of Peptide Linkages
+Peptide Bonds, Dipeptides, Polypeptides, N-terminal, C-terminal
+2.13.1 Structural Conformations in Proteins
+Primary Protein Structure
+Secondary Protein Structure (α-helix, β-pleated sheet)
+Tertiary Protein Structure
+Quaternary Protein Structure
+2.14 Significance of Amino Acid Sequence (Point mutations, Sickle cell anemia, HbA vs. HbS β-chains)
+2.15 Classification of Proteins (Fibrous vs. Globular)
+2.16 Role of Proteins
+Structural Proteins
+Functional Proteins
+2.17 Lipids
+2.18 Properties and Roles of Acylglycerols, Phospholipids, Terpenes and Waxes
+2.18.1 Properties of Acyl Glycerol
+2.18.2 Roles of Acyl Glycerides (Triacylglycerols)
+2.18.3 Properties of Phospholipids
+2.18.4 Functions of Phospholipids
+2.18.5 Roles of Terpenes
+2.18.6 Roles of Waxes
+2.19 Molecular Structure of an Acylglycerol, a Phospholipid and a Terpene
+2.19.1 Acylglycerol (Esterification, Glycerol, Fatty Acids, Monoglyceride, Diglyceride, Triglyceride; Saturated vs. Unsaturated Fatty Acids)
+2.19.2 Waxes
+2.19.3 Phospholipids (Phosphatidic acid derivatives, Choline, Lecithin)
+2.19.4 Terpenes (Isoprene building blocks, Monoterpenes, Diterpenes, Triterpenes, Polyterpenes)
+2.20 Steroids and Prostaglandins
+2.20.1 Steroids (Four attached rings, Cholesterol)
+2.20.2 Prostaglandins (Arachidonic acid derivative, role in inflammation)
+2.21 Nucleic Acid
+2.21.1 Chemical Structure of Nucleic Acids
+Nucleotides (Pentose sugar, Phosphate group, Nitrogenous base)
+Nucleosides
+2.22 Nitrogenous Bases in the Nucleotide
+Pyrimidines (Cytosine, Thymine, Uracil)
+Purines (Adenine, Guanine)
+2.23 Formation of Phosphodiester Bond (Polymerization of Nucleotides)
+Pyrophosphate release, 5' and 3' orientation
+2.24 Chemical Nature and Role of ATP and NAD
+Adenosine Triphosphate (ATP)
+Nicotinamide Adenine Dinucleotide (NAD)
+2.25 Watson and Crick Model of DNA
+Chargaff's Rule, Duplex dimensions, Antiparallel chains, Base pairing
+2.26 Ribonucleic Acid (RNA)
+2.27 Roles and Types of RNA
+2.27.1 Messenger RNA (mRNA)
+2.27.2 Ribosomal RNA (rRNA)
+2.27.3 Transfer RNA (tRNA) (Cloverleaf model, Anticodon, Loops)
+2.28 Central Dogma of Life
+2.28.1 Transcription
+2.28.2 Translation
+2.29 Conjugated Molecules (Glycolipids, Glycoproteins, Lipoproteins, Nucleoproteins)
+Chapter 3: Enzymes
+3.1 Enzyme Structure
+Ribozymes, Peptidyl transferase
+3.1.1 Components of an Active Site of an Enzyme
+Binding site vs. Catalytic site
+Cofactors, Holoenzyme, Apoenzyme, Pepsinogen activation
+3.1.2 Types of Cofactors
+Inorganic Ions (Activators)
+Organic Molecules (Co-enzymes)
+Prosthetic Group
+3.2 Mechanism of Enzyme Action
+3.2.1 Models of Enzyme Action
+Lock and Key Model (Emil Fischer)
+Induced Fit Model (Koshland)
+3.2.2 Energy of Activation
+3.3 Factors Affecting the Rate of Enzymatic Action
+3.3.1 Temperature (Optimum temperature, Denaturation, Maximum/Minimum temperatures)
+3.3.2 pH (Optimum pH, Pepsin vs. Trypsin)
+3.3.3 Enzyme Concentration
+3.4 Enzyme Inhibition
+3.4.1 Competitive Inhibition (Structural similarity, Malonate vs. Succinate)
+3.4.2 Non-Competitive Inhibitors (Allosteric site, Reversible/Irreversible, Cyanides, Heavy metal ions)
+3.4.3 Feedback Inhibition (Pathway regulation, Aspartate to Threonine)
+3.5 Classification of Enzymes
+3.5.1 Classification Based Upon Reaction Type
+Oxidoreductases
+Transferases
+Hydrolases
+Lyases
+Isomerases
+Ligases (Synthetases)
+3.5.2 Classification Based Upon Substrate
+Proteases (Pepsin, Trypsin, Aminopeptidases, Carboxypeptidases, Erypsin)
+Lipases
+Carbohydrases (Amylase, Cellulase, Maltase, Sucrase, Lactase)
+Nucleases (RNAases, DNAases, ATPases)
+Chapter 4: Bioenergetics
+4.1 Photosynthesis
+4.1.1 Role of Light (Electromagnetic spectrum, Action spectrum)
+4.1.2 Role of Carbon Dioxide in Photosynthesis
+4.1.3 Role of Water in Photosynthesis (Photolysis, Van Niel hypothesis, isotope tracing)
+4.1.4 Photosynthetic Pigments and Their Major Types
+Chlorophyll (Structure, Chlorophyll-a vs. Chlorophyll-b, phytol chain)
+Carotenoids (Carotenes, Xanthophylls)
+4.1.5 Role of Photosynthetic Pigments
+4.1.6 Absorption Spectrum
+4.1.7 Arrangements of Pigments (Photosystems) (Antenna complex, Reaction centre, PS-I/P700, PS-II/P680)
+4.1.8 Overall Mechanism of Photosynthesis
+4.1.9 Light Dependent Phase (Light Reaction)
+(a) Non-Cyclic Photophosphorylation (Z-Scheme)
+Absorption of light by PS-II and excitation of its electrons
+Photolysis of Water
+Electron flow from PS-II to PS-I (Plastoquinone PQ, Cytochromes Cyt-b6 and Cyt-f, Plastocyanin PC, Chemiosmosis)
+Absorption of light by PS-I and excitation of its electrons
+Electron flow from PS-I to NADP+ (Ferredoxin Fd, NADP reductase)
+(b) Cyclic Photophosphorylation
+4.1.10 Light Independent Phase (Dark Reaction)
+Calvin Cycle (C3 pathway)
+Phase 1: Carbon Fixation (RuBP, RuBisCO)
+Phase 2: Reduction (3-PGA, G3P)
+Phase 3: Regeneration of CO2 Acceptor (RuBP)
+4.2 Cellular Respiration
+4.2.1 Kinds of Cellular Respiration (Aerobic vs. Anaerobic)
+4.2.2 Mechanism of Anaerobic Respiration (Fermentation)
+Lactic Acid Fermentation
+Alcoholic Fermentation
+4.2.3 Mechanism of Aerobic Respiration
+Glycolysis
+Preparatory Phase
+Oxidative / Payoff Phase
+10 Enzymatic Steps of Glycolysis
+4.2.4 Oxidation of Pyruvate to Acetyl-Co-A (Decarboxylation, pyruvate dehydrogenase)
+4.2.5 Krebs Cycle (Citric Acid / TCA Cycle)
+9 Enzymatic Steps of the Cycle
+4.2.6 Electron Transport Chain (ETC)
+Respiratory Chain Complexes (I, II, III, IV) & Mobile Carriers (CoQ, Cytochrome c)
+Passage of Electron Flow
+4.2.7 Chemiosmosis and Oxidative Phosphorylation (F0 and F1 particles, ATP synthetase)
+4.2.8 Substrate Level Phosphorylation
+4.2.9 Importance of G3P
+4.2.10 Cellular Respiration of Fats and Proteins
+4.3 Photorespiration
+4.3.1 Mechanism of Photorespiration (RuBisCO oxygenase activity, Phosphoglycolate, Glycolate, Glycine, Serine)
+4.3.2 Disadvantages and Evolution of Photorespiration
+4.3.3 Effect of Temperature on the Activities of RuBisCO
+4.3.4 C4 Photosynthesis: An Adaptation to the Problem of Photorespiration (Hatch-Slack cycle, PEP carboxylase, Oxaloacetate, Bundle sheath cells)
+Chapter 5: Acellular Life
+5.1 Viruses-Discovery and Structure
+5.1.1 History and Discovery of Virus (Chamberland, Iwanowsky, TMV, Stanley)
+5.1.2 Characteristics of Viruses (Living vs. Non-living properties)
+5.1.3 General Structure of a Virus (Virion, Core, Capsid, Envelope, Capsomeres)
+5.1.4 Classification of Virus
+Host-Based Classification (Bacteriophage, Plant, Animal)
+Genome and Structure-Based Classification (helical, polyhedral, dsDNA, ssDNA, dsRNA, ssRNA)
+5.2 Parasitic Nature of Virus
+5.2.1 Viruses Must Require Host Cell to Complete Life Cycle
+5.2.2 Survival of Viruses Inside a Host Cell
+5.2.3 Viruses Can Pass Unfavourable Conditions Outside the Host
+5.3 Bacteriophage
+5.3.1 Structure of Bacteriophage (Head, Neck, Tail, Sheath, Tail fibers, Base plate, Lysozyme)
+5.3.2 Life Cycle of Bacteriophage (Lytic vs. Lysogenic cycles, Lysogenic conversion)
+5.3.3 Infection Process (Adsorption, Penetration, Genome Injection)
+5.3.4 Replication of Bacteriophage in Lytic Cycle
+5.3.5 Replication of Bacteriophage in Lysogenic Cycle (Prophage, Induction)
+5.3.6 Usage of Bacteriophages in Genetic Engineering
+5.4 Human Immunodeficiency Virus
+5.4.1 Structure of Human Immunodeficiency Virus (HIV) (Envelope, Glycoproteins gp120 and gp41, Capsid, RNA core, Reverse transcriptase, Integrase, Protease)
+5.4.2 Life Cycle of HIV (CD4 receptors, T-cells, cDNA synthesis, Provirus)
+5.4.3 Symptoms of AIDS (Asymptomatic carrier, ARC, Full Blown AIDS)
+5.4.4 Opportunistic Diseases
+5.4.5 Treatment of AIDS (Antiretroviral Therapy - ART)
+5.4.6 Control Measures Against the Transmission of HIV
+5.5 Viral Diseases
+5.5.1 Hepatitis (Hepatitis A, B, C, D, E)
+5.5.2 Herpes Simplex (Oral Herpes, Genital Herpes)
+5.5.3 Poliomyelitis (Polio virus, IPV, OPV)
+5.5.4 Cotton Leaf Curl Disease (CLCuD)
+5.6 Economic Losses Due to Viral Infections
+5.7 Limitations of Flu Vaccine
+5.8 Prions and Viroids
+5.8.1 Prions (Infectious proteins, no nucleic acid, Kuru, Mad Cow)
+5.8.2 Viroids (Circular naked ssRNA, Potato spindle tuber)
+Chapter 6: Prokaryotes
+6.1 Taxonomy of Prokaryotes (Monera, Kingdom vs. Three-Domain System)
+6.2 Archaea
+6.2.1 Unifying Features of Archaea
+Major Archaea Groups (Methanogens, Halophiles, Thermoacidophiles)
+6.3 Bacteria: Ecology and Diversity
+6.3.1 Occurrence of Bacteria in the Widest Range of Habitats
+6.3.2 Cyanobacteria - The Most Prominent Photosynthetic Bacteria (Phycobilins, Heterocysts, Nitrogen fixation, Akinetes)
+6.4 Structure: Shape and Size of Bacteria
+Bacterial Cell Anatomy (Capsule, cell wall, inclusions, mesosomes, plasmid, pili)
+6.4.1 Cell Walls of Gram-Positive and Gram-Negative Bacteria (Peptidoglycan / Murein, Teichoic acid, Lipopolysaccharides, Periplasmic space, β-lactamases)
+Diversity of Shapes and Sizes in Bacteria (Cocci, Bacilli, Spirochetes)
+6.4.2 Endospore Formation in Bacteria (Sporulation steps, Germination)
+6.4.3 Motility in Bacteria (Flagellar arrangements, Taxes)
+6.4.4 Structure of Bacterial Flagellum (Basal body, Hook, Filament, Rotatory motion)
+6.4.5 Genomic Organization in Bacteria (Accessory DNA - Plasmids)
+6.5 Modes of Nutrition in Bacteria
+6.5.1 Autotrophic Nutrition in Bacteria (Photosynthetic bacteria vs. Chemoautotrophic bacteria)
+6.5.2 Heterotrophic Nutrition in Bacteria (Saprotrophic, Parasitic)
+Differences in Photosynthesis: Cyanobacteria vs. Other Photosynthetic Bacteria
+6.6 Growth and Reproduction in Bacteria
+6.6.1 Phases of Growth (Lag, Log/Exponential, Stationary, Death/Decline)
+6.6.2 Reproduction in Bacteria
+Asexual Reproduction (Binary Fission steps)
+Sexual Reproduction (Conjugation, Lederberg & Tatum)
+6.6.3 Direct Proof of Genetic Recombination
+Transduction (Bacteriophage vector)
+Transformation
+Mutations and Genetic Recombination
+6.7 Importance of Bacteria
+6.7.1 Nutrients Recycling
+6.7.2 Ecological Importance of Bacteria
+6.7.3 Economic Importance of Bacteria
+Beneficial (Digestion, vitamins, industrial biochemistry, Single Cell Protein, biotechnology)
+Harmful Bacteria
+Bacterial Diseases in Man (Cholera, Typhoid, Tuberculosis, Pneumonia)
+Bacterial Diseases in Plants (Leaf spot, Blight, Soft Rot, Wilting, Galls)
+6.8 The Bacterial Flora of Humans (Benefits of microbiota)
+6.9 Control of Harmful Bacteria
+Chemical Methods (Disinfectants, Antiseptics, Preservatives, Chemotherapy)
+Physical Methods (Sterilization, Autoclave, Radiation, Pasteurization, Cryopreservation)
+Chapter 7: Protists and Fungi
+7.1 Protists - The Evolutionary Relationship
+Polyphyletic Origin
+Protist Diversity (Size, nutrition, habitat, reproduction, locomotion)
+7.2 Major Groups of Protists
+7.2.1 Protozoa: The Animal-Like Protists
+Amoebas (Pseudopodia)
+Zooflagellates
+Choanoflagellates
+Ciliates
+Foraminifera and Actinopods
+Apicomplexans (Plasmodium)
+7.2.2 Algae: The Plant-Like Protists
+Euglenoids
+Dinoflagellates
+Diatoms (Silica frustules)
+Brown Algae (Kelps)
+Red Algae
+7.2.3 Green Algae (Chlamydomonas, Spirogyra, Volvox, Chlorella, Ulva)
+7.2.4 Fungi-Like Protists: Myxomycota and Oomycota
+Myxomycota (Slime molds)
+Oomycota (Water molds, coenocytic hyphae, zoosporangia)
+7.2.6 Importance of Protists to Humans
+7.3 General Characteristics of Fungi
+Heterotrophic extracellular digestion, Mycelium, Hyphae (Septate vs. Coenocytic)
+Nuclear Mitosis
+Why Classified as a Separate Kingdom
+7.4 Diversity Among Fungi
+Classification of Fungi
+Zygomycota (Conjugating Fungi, Rhizopus)
+Ascomycota (Sac Fungi, Ascus, Ascospores, Conidiophores)
+Basidiomycota (Club Fungi, Basidia, Basidiospores, Gills)
+Deuteromycota (Imperfect Fungi, Parasexuality)
+7.5 Importance of Fungi
+Importance of Yeast (Baking, brewing, genetic model organism)
+Antibiotics Obtained from Fungi (Table 7.6)
+Mutualism: Lichen and Mycorrhizae
+Lichens (symbiosis with algae/cyanobacteria)
+Mycorrhizae (Endomycorrhizae vs. Ectomycorrhizae)
+Edible Fungi (Truffle, Morchella, Agaricus)
+Ecological Impact of Fungi
+Pathogenic Role of Fungi
+In Plants (Leaf spot, rust, smut, blight)
+In Animals and Humans (Ringworm, Athlete's foot, Candidiasis, Histoplasmosis, Aspergillosis, Ergotism)
+Chapter 8: Kingdom Plantae
+8.1 An Overview of Kingdom Plantae
+8.1.1 Diagnostic Features of Plants (Cutin, Heteromorphic alternation of generations)
+8.1.2 Classification of Kingdom Plantae (Bryophytes, Tracheophytes, Pteridophytes, Spermatophytes)
+8.2 Bryophyta (Non-Vascular Plants)
+8.2.1 General Characteristics of Bryophytes
+Land Adaptations in Bryophytes
+Bryophyte Subdivisions (Hepaticopsida, Bryopsida, Anthoceropsida)
+8.2.2 Life Cycle of Polytrichum (A Moss Plant)
+Gametophytic Generation (Antheridia, Archegonia)
+Fertilization
+Sporophytic Generation (Foot, Seta, Capsule)
+Germination of Spores (Protonema)
+8.3 Tracheophyta (Vascular Plants)
+8.3.1 General Characteristics of Tracheophytes
+8.4 Pteridophyta (Seedless Vascular Plants)
+8.4.1 Psilopsida - Whisk Ferns (Rhynia, Psilotum)
+8.4.2 Lycopsida - Club Mosses (Lycopodium, Selaginella, microphylls)
+8.4.3 Sphenopsida - Horsetails (Equisetum)
+8.4.4 Pteropsida (subclasses: Fillicinae, Gymnospermae, Angiospermae)
+Fillicinae (Ferns) (Circinate vernation, Ramenta, Sori)
+Life Cycle of Fern (Adiantum)
+Sporophyte Generation (Rhizome, Sporangium: Annulus, Stomium)
+Gametophyte Generation (Prothallus, Rhizoids, Archegonia, Antheridia)
+Fertilization
+8.5 Spermatophyta (Seed Producing Vascular Plants)
+8.5.1 Gymnosperms (Naked seeds, megasporophylls, microsporophylls)
+Classification of Gymnosperms (Cycadophytes, Coniferophytes)
+Life Cycle of Pinus
+Sporophytic Generation (Conifer cones)
+Pollination
+Development of Male Gametophyte
+Development of Female Gametophyte
+Fertilization and Development of Seed
+8.5.2 Angiosperms (Flowering Plants)
+Life Cycle of a Flowering Plant
+Sporophytic Generation (Flower anatomy: Calyx, Corolla, Androecium/Stamen, Gynoecium/Carpel)
+Pollination
+Development of Male Gametophyte
+Development of Female Gametophyte (Embryo sac, Polar nuclei, Egg cell, Synergids, Antipodals)
+Fertilization (Double fertilization, Triploid endosperm)
+Seed Formation and Germination
+8.5.3 Classification of Angiosperms (Dicotyledonae/Dicots vs. Monocotyledonae/Monocots)
+8.5.4 Common Angiospermic Plant Families
+Family Brassicaceae (Mustard/Cabbage Family)
+Family Solanaceae (Nightshade/Potato Family)
+Family Poaceae (Gramineae/Grass Family)
+Chapter 9: Diversity in Plant Functions
+9.1 Nutrition in Plants
+9.1.1 Types of Plant Nutrients
+Macronutrients (C, O, H, N, K, Ca, Mg, P, S)
+Micronutrients (Cl, Fe, Mn, B, Zn, Cu, Ni, Mo)
+Nutrient Deficiencies (Chlorosis, Necrosis, Stunted growth)
+9.1.2 Nutrition of Carnivorous Plants (Pitcher plant, Venus flytrap, Sundew)
+9.2 Gaseous Exchange in Plants
+Compensation Point
+9.2.1 Role of Palisade and Spongy Mesophyll in Exchange of Gases
+9.2.2 Relationship of Stomata and Transpiration with Exchange of Gases
+9.3 Transport in Plants
+9.3.1 Movement of Water Between Plant Cells and Their Environment
+Water Potential
+Solute Potential
+Pressure Potential
+9.3.2 Uptake of Water by Roots and Pathways (Root hairs, Casparian strips)
+(a) Apoplast pathway
+(b) Symplast pathway
+(c) Vacuolar pathway
+9.3.3 Structure and Function of Xylem and Phloem
+Xylem Components (Tracheids, Vessel elements, Fibres, Parenchyma)
+Phloem Components (Sieve tube elements, Companion cells, Parenchyma, Fibres)
+9.3.4 Ascent of Sap (TACT Theory)
+Transpiration pull
+Adhesion
+Cohesion and Tension
+9.3.5 Opening and Closing of Stomata
+Starch Sugar Interconversion Theory
+K+ Ions Influx/Efflux Theory
+9.3.6 Translocation of Organic Solutes (Pressure/Mass Flow Theory)
+Pattern/Direction of Translocation (Source to Sink)
+Composition of Phloem Sap (Sucrose concentration)
+9.4 Homeostasis in Plants
+9.4.1 Osmotic Adjustment (Osmoregulation)
+Osmotic States (Hypotonic, Hypertonic, Isotonic)
+Environmental Adaptation (Hydrophytes, Mesophytes, Xerophytes)
+9.4.2 Osmotic Adjustments of Plants (Halophytes) in Saline Soils
+9.4.3 Thermoregulation in Plants
+Adaptations to Low Temperature Stress
+Adaptations to High Temperature Stress
+9.5 Support in Plants
+9.5.1 Role of Turgor Mechanism in Support
+9.5.2 Role of Mechanical Tissues in Support (Collenchyma, Sclerenchyma: fibres, sclereids)
+9.5.3 Arrangement of Vascular Bundles
+9.6 Growth and Development in Plants
+9.6.1 Meristematic Tissues (Meristems)
+Apical Meristems (Primary)
+Lateral Meristems (Secondary)
+9.6.2 Types of Plant Growth (Primary vs. Secondary Growth)
+9.6.3 Role of Lateral Meristems in Secondary Growth
+Role of Vascular Cambium (Annual rings, Heartwood, Sapwood, Bark)
+Role of Cork Cambium (Phellogen)
+9.6.4 Growth Correlations
+Apical Dominance (Auxins vs. Cytokinins)
+9.7 Growth Responses in Plants
+9.7.1 Plant Growth Regulators (Hormones)
+Auxins (IAA)
+Gibberellins (GA3)
+Cytokinins
+Abscisic Acid (ABA)
+Ethylene
+9.7.2 Growth Movements in Plants (Tropic Movements)
+Phototropism
+Geotropism (Gravitropism)
+Thigmotropism
+Chemotropism
+9.7.3 Photoperiodism
+Classification (Short-day, Long-day, Day-neutral plants)
+Critical Photoperiods & Significance of Dark Periods
+Photoreceptors: Phytochromes
+Florigen Hormone
+9.7.4 Vernalization (Low temperature induction, Vernalin/Gibberellin)
+Chapter 10: Animalia
+10.1 Criteria for Animal Classification
+10.1.1 Classification Based Upon Organization of Tissues (Parazoa vs. Eumetazoa)
+10.1.2 Classification Based Upon Number of Tissue Layers (Diploblastic vs. Triploblastic)
+10.1.3 Classification Based Upon Type of Body Symmetry (Radiata vs. Bilateria)
+10.1.4 Classification Based Upon Type of Body Cavity (Acoelomate, Pseudocoelomate, Coelomate; Protostomes vs. Deuterostomes)
+10.2 Diversity in Animals
+10.2.1 Invertebrates (9 major phyla)
+Phylum Porifera (Sponges, ostia, osculum, spongocoel, spicules, choanocytes)
+Phylum Cnidaria (Nematocysts, polyp, medusa, polymorphism, coral reefs)
+Phylum Platyhelminthes (Flatworms, planaria, liver fluke, tapeworm, acoelomates)
+Phylum Aschelminthes / Nematoda (Roundworms, ascaris, pseudocoel)
+Phylum Mollusca (Mantle, radula, snail, octopus)
+Phylum Annelida (Segmented worms, earthworms, setae, parapodia)
+Phylum Arthropoda (Jointed appendages, chitinous exoskeleton, haemocoel)
+Phylum Echinodermata (Spiny skinned, water vascular system, tube feet)
+Phylum Hemichordata (Acorn worm, proboscis, collar, trunk)
+10.2.2 Chordates
+Diagnostic Features (Notochord, dorsal nerve cord, gill slits, post anal tail)
+Classification of Chordates
+(a) Group Protochordata (Acrania)
+i. Subphylum Urochordata
+ii. Subphylum Cephalochordata (Amphioxus)
+(b) Group Craniata
+Subphylum Vertebrata
+Super Class Agnatha (Jawless, Hagfish, Lamprey)
+Super Class Gnathostomata (Jawed vertebrates)
+Class Chondrichthyes (Cartilaginous fishes)
+Class Osteichthyes (Bony fishes)
+Class Amphibia
+Class Reptilia (Amniotes)
+Class Aves (Birds, feathers, gizzard)
+Class Mammalia (Subclasses: Prototheria, Metatheria, Eutheria)
+Chapter 11: Reproduction
+11.1 Reproductive System of Man
+11.1.1 Male Reproductive System (Testes, epididymis, vas deferens, seminal vesicle, prostate, urethra, penis)
+Spermatogenesis (Seminiferous tubules, spermatocytes, spermatids, sperm anatomy)
+11.1.2 Hormonal Control of Male Reproductive Function (GnRH, LH, FSH, Leydig cells - testosterone, Sertoli cells - inhibin, negative feedback loops)
+11.1.3 Female Reproductive System (Ovaries, fallopian tubes, uterus: endometrium/myometrium, cervix, vagina)
+11.2 Female Reproductive Cycle and its Hormonal Regulation
+Oogenesis (Oogonium, polar bodies, Graafian follicle, corpus luteum)
+Cycle Phases:
+Menstrual Phase (Days 1 - 5, endometrial shedding)
+Proliferative / Pre-Ovulatory Phase (Days 6 - 14, FSH, estrogen, LH surge, ovulation)
+Secretory / Post-Ovulatory Phase (Days 15 - 28, corpus luteum, progesterone)
+Menarche and Menopause
+Chapter 12: Inheritance
+12.1 Mendelian Inheritance
+12.1.1 Association of Inheritance with Laws of Mendel
+Monohybrid Cross (Law of Segregation, 3:1 phenotypic ratio)
+Dihybrid Cross (Law of Independent Assortment, 9:3:3:1 ratio)
+Limitations and Scope of Independent Assortment
+12.1.2 Inheritance and Mathematical Probabilities (Product Rule)
+12.2 Exceptions to Mendelian Inheritance
+12.2.1 Incomplete Dominance (Mirabilis jalapa 4 O'clock flowers, intermediate blending)
+12.2.2 Co-dominance (Independent expression, MN blood group)
+Multiple Alleles
+12.3 Blood Group Systems
+12.3.1 ABO Blood Group System
+ABO Antigens
+ABO Antibodies & Transfusion Principles (Agglutination, universal donor/recipient)
+12.3.3 Rh Blood Group System (D antigen, Rh+ vs. Rh-)
+12.3.4 Erythroblastosis Foetalis (Maternal-foetal Rh incompatibility, RhoGAM prophylaxis)
+12.4 Polygenic Inheritance and Epistasis
+12.4.1 Wheat Grain Colour (Pigment accumulation alleles)
+12.4.2 Inheritance of Human Skin Colour (Melanin genetics)
+12.4.3 Epistasis (Gene masking, Epistatic vs. Hypostatic)
+Coat Colour in Labrador Retrievers (Recessive epistasis, 9:3:4 ratio)
+Epistasis in Foxglove Flowers (Dominant epistasis, 12:3:1 ratio)
+12.5 Gene Linkage and Crossing Over
+12.5.1 Gene Linkage (Autosomal vs. Sex linkage, Morgan's Drosophila wing experiments, 3:1 deviation)
+12.5.2 Crossing-Over Modifies the Progeny (Recombination)
+12.6 Sex Determination
+12.6.1 Genetic Identification of Sex Phenotypes (Karyotypes, autosomes vs. sex chromosomes)
+12.6.2 Patterns of Sex Determination (XX-XY systems)
+12.7 Sex Linkage
+12.7.1 Sex Linkage in Drosophila (Morgan's eye colour crosses)
+12.7.2 Sex-Linkage in Humans
+X-Linked Recessive (Hemophilia, Colour blindness)
+X-Linked Dominant (Rickets)
+Y-Linked (Holandric traits: hairy pinna, TDF)
+Pedigree Analysis Symbols
+12.7.3 Sex Linked Disorders in Human
+Genetics of Haemophilia (Haemophilia A, B, C; factors VIII, IX, XI)
+Genetics of Colour-blindness (Cones, opsin gene mutations, monochromacy, dichromacy)
+Techniques Employed for Embryonic Screening (Amniocentesis, Chorionic Villus Sampling)
+Chapter 13: Chromosome and DNA
+13.1 Morphology of Chromosomes
+Chromosome Structure (Chromatids, Centromere: metacentric, submetacentric, acrocentric, telocentric; satellites, telomeres)
+Composition and Organization (DNA-histone ratio, nucleosomes, chromatin fibre, supercoil)
+13.2 DNA as the Hereditary Material
+Griffith's Experiment (Streptococcus transformation, S-type capsules vs. R-type)
+Avery, MacLeod, and McCarty Experiment (Chemical digestion: DNase, RNase, Protease)
+Hershey and Chase Experiment
+13.3 DNA Replication
+Models of DNA Replication (Semi-conservative, Conservative, Dispersive)
+Meselson and Stahl Experiment (Heavy nitrogen tracing, CsCl centrifugation)
+Mechanism of DNA Replication
+Initiation Phase (Origin of replication, replication bubble/fork, helicase, DNA gyrase, SSB proteins)
+Extension / Polymerization Phase (RNA primers, primase, DNA Polymerase III, leading vs. lagging strands, Okazaki fragments, DNA Polymerase I, DNA ligase, sliding clamp)
+Termination Phase (DNA stability, proofreading)
+13.4 Gene Expression
+Central Dogma
+Transcription
+Initiation Phase (Promoter region, TATA, CAAT, GC boxes, RNA Polymerase subunits, sigma factor)
+Elongation Phase (Template/antisense strand, transcription bubble)
+Termination Phase (Hairpin loop, poly U sequences)
+Post-Transcriptional Modification (7-methyl GTP cap, poly-A tail, introns splicing, spliceosomes)
+Genetic Code (Codons, triplets, degeneracy, universality, non-punctuated, non-overlapping)
+Translation
+Activation of Amino Acids (Aminoacyl-tRNA synthetase)
+Formation of Initiation Complex (Initiation factors, ribosomal subunits)
+Polypeptide Elongation (A, P, and E ribosomal sites, peptidyl transferase, translocation)
+Termination (Stop codons, release factors)
+Translation differences between Prokaryotes and Eukaryotes
+13.5 Regulating Gene Expression
+Positive vs. Negative Gene Regulation (Activators, repressors)
+Lac Operon (i-gene, repressor protein, promoter, operator, structural genes z/y/a, lactose inducer)
+13.6 Mutations
+Mutagens (Physical, chemical, biological)
+Types (Point mutation vs. Chromosomal mutations)
+Chromosomal Mutations
+Down Syndrome (Trisomy 21, nondisjunction, 2n+1)
+Klinefelter Syndrome (XXY, nondisjunction, 2n+1)
+Turner Syndrome (XO, monosomy, 2n−1)
+Gene/Point Mutations
+Sickle Cell Anaemia (Valine substitution for glutamic acid in β-chain)
+Phenylketonuria (PKU) (Phenylalanine hydroxylase deficiency)
+Chapter 14: Evolution
+14.1 Evolution from Prokaryotes to Eukaryotes
+Endosymbiosis Theory (Lynn Margulis, organelle origin)
+14.2 Lamarckism
+14.2.1 Main Points of Lamarckism
+Use and Disuse of Organs (Webbed feet, snake limbs, vestigial muscles)
+Inheritance of Acquired Characteristics (Giraffe necks)
+14.2.2 Drawbacks of Lamarckism
+14.3 Darwinism
+Darwin's Voyage & Observations (HMS Beagle, Galapagos finches)
+14.3.2 Development of the Theory of Evolution
+Charles Lyell & James Hutton (Uniformitarianism)
+Thomas Malthus (Population growth vs. resources)
+Alfred Russell Wallace
+14.3.3 Darwin's Theory of Natural Selection
+Descent with Modification
+Natural Selection & Adaptations (Overproduction, variations, struggle, survival of the fittest)
+14.4 Neo-Darwinism (Modern evolutionary synthesis)
+14.5 Evidences in Favour of Evolution Theory
+14.5.1 Evidence from Biogeography (Continental drift)
+14.5.2 Molecular Biology Evidence (Homology of DNA, Cytochrome c)
+14.5.3 Comparative Anatomy
+Homologous Structures (Divergent evolution, mammal limb bone patterns, vestigial organs)
+Analogous Structures (Convergent evolution, wings of insects/birds/bats)
+Chapter 15: Ecology
+15.1 Ecosystem
+15.1.1 Components of Ecosystem
+Abiotic Components (Light, air, water, soil)
+Biotic Components (Producers, Consumers, Decomposers)
+15.1.2 Food Chain and Food Webs
+15.1.3 Trophic Level (T1 to T5)
+15.1.4 Primary Productivity (GPP vs. NPP)
+15.2 Energy Flow
+15.2.1 The Loss Between Trophic Levels (10% transfer)
+15.2.2 Ecological Pyramids
+Pyramids of Energy
+Pyramids of Biomass
+Pyramids of Number
+15.3 Biogeochemical Cycle
+15.3.1 Primary Reservoirs of Nutrients
+15.3.2 Water Cycle (Precipitation, condensation, percolation, water table, aquifers)
+15.3.3 Nitrogen Cycle
+Ammonification
+Nitrification (Nitrosomonas, Nitrobacter)
+Nitrogen Fixation (Atmospheric, Industrial, Biological - Rhizobium, Azotobacter)
+Assimilation
+Denitrification (Pseudomonas)
+15.4 Ecological Succession
+Seral stages, pioneer community, climax community
+15.4.1 Kinds of Succession (Primary vs. Secondary; Hydrarch/Hydroseres vs. Xerarch/Xeroseres)
+15.4.2 Xerarch Succession Stages
+Crustose-lichen stage (Licanora, Rhinodina)
+Foliose-lichen stage (Permelia, Dermatocarpon)
+Moss stage
+Herb stage
+Shrub stage
+Tree stage
+Climax stage
+15.5 Population Dynamics
+Inflow (Births, immigration) vs. Outflow (Culling, mortality, emigration)
+15.5.1 Characteristics of a Population (Growth, density, dispersion/distribution, carrying capacity, viable size)
+15.5.2 Human Impact on Ecosystem (Habitat destruction, pollution, climate change, overexploitation, invasive species, biodiversity loss, resource depletion)
+15.5.3 The Greenhouse Effect
+15.6 Coral Reefs
+15.7 The Ecosystems of Pakistan
+15.6.1 Grassland Ecosystem
+15.6.2 Desert Ecosystems (Thar, Cholistan, Thal, Kharan, Skardu)
+15.6.3 The Coniferous Alpine and Boreal Forests
+15.6.4 Temperate Deciduous Forests

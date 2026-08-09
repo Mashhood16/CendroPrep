@@ -1,0 +1,164 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  extensions = [vector]
+}
+
+// ==========================================
+// CURRICULUM TAXONOMY
+// ==========================================
+
+model Subject {
+  id        String   @id @default(uuid())
+  name      String   // e.g. "Biology"
+  grade     Int      // e.g. 11
+  books           Book[]
+  papers          Paper[]
+  generatedPapers GeneratedPaper[]
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Book {
+  id        String    @id @default(uuid())
+  title     String
+  subjectId String
+  subject   Subject   @relation(fields: [subjectId], references: [id])
+  chapters  Chapter[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Chapter {
+  id          String   @id @default(uuid())
+  title       String
+  chapterNo   Int
+  bookId      String
+  book        Book     @relation(fields: [bookId], references: [id])
+  topics      Topic[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Topic {
+  id          String   @id @default(uuid())
+  title       String
+  topicNo     String   // e.g. "1.1"
+  chapterId   String
+  chapter     Chapter  @relation(fields: [chapterId], references: [id])
+  subTopics   String[] // List of subtopic strings
+  
+  // Relations
+  questions   Question[]
+  contents    TopicContent[]
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// ==========================================
+// RAG & NOTEBOOK-LM CONTENT
+// ==========================================
+
+model TopicContent {
+  id          String   @id @default(uuid())
+  topicId     String
+  topic       Topic    @relation(fields: [topicId], references: [id])
+  content     String   // Raw textbook text for the topic
+  
+  // pgvector embedding for NotebookLM RAG
+  embedding   Unsupported("vector(768)")?
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// ==========================================
+// QUESTION BANK (50/50 SLO/Textbook)
+// ==========================================
+
+model Paper {
+  id          String   @id @default(uuid())
+  title       String
+  type        PaperType
+  year        Int
+  pdfUrl      String
+  
+  subjectId   String
+  subject     Subject  @relation(fields: [subjectId], references: [id])
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+enum PaperType {
+  PAST_PAPER
+  MOCK_EXAM
+}
+
+// ==========================================
+// QUESTION BANK (50/50 SLO/Textbook)
+// ==========================================
+
+model Question {
+  id          String   @id @default(uuid())
+  text        String
+  type        QuestionType
+  difficulty  Difficulty
+  marks       Int
+  isSLO       Boolean  @default(false)
+  
+  topicId     String
+  topic       Topic    @relation(fields: [topicId], references: [id])
+  
+  options     String[] // For MCQs
+  answer      String   // Correct option or answer text
+  solution    String?  // Step by step AI solution
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+enum QuestionType {
+  MCQ
+  SHORT
+  LONG
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+// ==========================================
+// GENERATED EXAMS (Strict FBISE Format)
+// ==========================================
+
+model GeneratedPaper {
+  id             String   @id @default(uuid())
+  userId         String?
+  title          String
+  
+  subjectId      String?
+  subject        Subject? @relation(fields: [subjectId], references: [id])
+  
+  // Cendronyx Branding Metadata & Document Versioning
+  branding       Json?    
+  
+  // Strict Federal Board Layout
+  sectionA_MCQs  Json     // 17 MCQs
+  sectionB_Short Json     // 14 Short Questions (Each with internal OR)
+  sectionC_Long  Json     // 4 Long Questions (Each with internal OR)
+  
+  pdfUrl         String?  // Link to generated PDF
+  
+  createdAt      DateTime @default(now())
+}

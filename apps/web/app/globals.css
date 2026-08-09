@@ -1,50 +1,22 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@import "@repo/ui/styles.css";
+@source "../../../packages/ui/src";
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@media print {
+  body {
+    background: white !important;
   }
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.imgDark {
-  display: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+  * {
+    color: black !important;
+    background-color: transparent !important;
+    border-color: #ddd !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
   }
-
-  .imgLight {
-    display: none;
-  }
-  .imgDark {
-    display: unset;
+  
+  /* Retain specific backgrounds if needed, but for a paper, transparent is best */
+  .glass {
+    border: 1px solid #ddd !important;
+    margin-bottom: 20px !important;
+    page-break-inside: avoid;
   }
 }

@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #f0fdfa;
+  --color-brand-100: #ccfbf1;
+  --color-brand-200: #99f6e4;
+  --color-brand-300: #5eead4;
+  --color-brand-400: #2dd4bf;
+  --color-brand-500: #14b8a6;
+  --color-brand-600: #0d9488;
+  --color-brand-700: #0f766e;
+  --color-brand-800: #115e59;
+  --color-brand-900: #134e4a;
+  --color-brand-950: #042f2e;
+
+  /* We'll use a deep, premium dark theme */
+  --color-bg-dark: #09090b;
+  --color-bg-dark-card: #18181b;
+  --color-text-dark: #f4f4f5;
+  --color-text-muted: #a1a1aa;
+
+  --color-bg-light: #ffffff;
+  --color-bg-light-card: #f4f4f5;
+  --color-text-light: #09090b;
+}
+
+@layer base {
+  :root {
+    --background: var(--color-bg-light);
+    --foreground: var(--color-text-light);
+    --card: var(--color-bg-light-card);
+  }
+
+  .dark {
+    --background: var(--color-bg-dark);
+    --foreground: var(--color-text-dark);
+    --card: var(--color-bg-dark-card);
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    @apply antialiased selection:bg-brand-500/30;
+  }
+}
+
+/* Glassmorphism utilities */
+@utility glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+
+  .dark & {
+    background: rgba(24, 24, 27, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+}

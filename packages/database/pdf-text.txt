@@ -1,0 +1,3055 @@
+
+
+BOARD ASSESSMENT SERIES 2026
+10 SLO-BASED MODEL PAPERS
+WITH SOLUTIONS
+Subject: Chemistry (Class 9 / SSC-I)
+Exam Pattern: 85-Marks FBISE Standards
+Chapters: National Book Foundation National Curriculum Model
+COMPREHENSIVE
+ASSESSMENT
+Covers entire curriculum from Units 1 to 19, including practical
+experimental skills.
+85-MARKS EXAM PATTERNConforms strictly to FBISE: 17 MCQs, 14 short answer pairs, and 4
+long extensive answer pairs.
+100% EXPLICIT SOLUTIONSEvery question (including all 'OR' choices) is fully solved with precise
+chemical equations and grading splits.
+SLO DIRECTED DESIGNAligned with Student Learning Objectives (SLOs) from the National
+Book Foundation (NBF) Textbook.
+PUBLISHED BY NATIONAL ASSESSMENT COUNCIL, ISLAMABAD
+
+TABLE OF CONTENTS
+S.NoModel Paper Description / FocusSyllabus CoveredPage Range
+1Model Paper 1: Chapter-Wise FoundationUnits 1 & 2 (Nature of Science & Matter)Page 3
+2
+Model Paper 2: Atomic Structure &
+Bonding
+Units 3 & 5 (Atomic Structure & Chemical
+Bonding)
+Page 6
+3
+Model Paper 3: Full Book Mock Board
+Examination
+Units 1 to 19 (Comprehensive Chemistry
+Evaluation)
+Page 9
+4
+Model Paper 4: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 1Page 12
+5
+Model Paper 5: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 2Page 15
+6
+Model Paper 6: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 3Page 18
+7
+Model Paper 7: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 4Page 21
+8
+Model Paper 8: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 5Page 24
+9
+Model Paper 9: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 6Page 27
+10
+Model Paper 10: SLO Comprehensive
+Mock Exam
+Board Syllabus Evaluation — Mock 7Page 30
+Note  on  FBISE  assessment  guidelines:  This  textbook  and  assessment  model  strictly  evaluate  Student  Learning
+Outcomes  (SLOs)  rather  than  rote-learning  of  exercise  questions.  Questions  have  been  formulated  based  on
+analytical  reasoning,  conceptual  knowledge,  and  practical  applications  as  guided  by  the  Federal  Board  of
+Intermediate  and  Secondary  Education  (FBISE),  Islamabad.  All  standard  chemical  formulas  are  represented
+accurately.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 1
+Syllabus Focus: Units 1 & 2 (Nature of Science & Matter)
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. Chemistry deals with the composition, structure, properties, and changes of:
+A) ForcesB) Energy
+C) MatterD) Motion
+Q2. Which of the following branch deals with carbon-containing compounds except carbonates?
+A) InorganicB) Organic
+C) BiochemistryD) Analytical
+Q3. Physical chemistry is primarily concerned with the relationship between:
+A) Carbon compoundsB) Biomolecules
+C) Laws and theories of matterD) Industrial products
+Q4. Which sub-field of chemistry focuses on chemical processes in living organisms?
+A) EnvironmentalB) Biochemistry
+C) NuclearD) Analytical
+Q5. The study of chemical techniques for water purification represents:
+A) AstrochemistryB) Medicinal chemistry
+C) Environmental chemistryD) Nuclear chemistry
+Q6. Bose-Einstein Condensate (BEC) represents which state of matter?
+A) SolidB) Liquid
+C) FifthD) Fourth (Plasma)
+Q7. Which state of matter has low density at normal conditions due to large spaces?
+A) SolidB) Liquid
+C) GasD) Crystal
+Q8. What is the crystalline allotrope of carbon with a 2D hexagonal layer structure?
+A) DiamondB) Graphite
+C) BuckyballsD) Amorphous carbon
+
+Q9. Which allotrope of carbon has a soccer-ball-like fused hollow ring structure?
+A) DiamondB) Graphite
+C) Carbon nanotubeD) Buckyballs (C-60)
+Q10. A mixture of two or more substances that is completely homogeneous is called a:
+A) SuspensionB) Solution
+C) ColloidD) Compound
+Q11. A solution containing the maximum amount of solute at a given temperature is:
+A) SaturatedB) Unsaturated
+C) SupersaturatedD) Dilute
+Q12. If a solution can dissolve more solute at a given temperature, it is called:
+A) SaturatedB) Supersaturated
+C) UnsaturatedD) Concentrated
+Q13. A mixture whose particles range between 1 and 1000 nm in diameter is a:
+A) SolutionB) Colloid
+C) SuspensionD) Compound
+Q14. Which of the following is a classic example of a suspension?
+A) Sea waterB) Milk
+C) Muddy waterD) Brass
+Q15. Macroscopic properties like density, fluidity, and compressibility help distinguish:
+A) IsotopesB) Elements
+C) States of matterD) Cations
+Q16. What distinguishes a compound from a mixture?
+A) Physical combiningB) Chemical combining of elements
+C) Homogeneous alwaysD) Easily separated
+Q17. The process of applying scientific knowledge to practical applications is called:
+A) EngineeringB) Science
+C) TechnologyD) Chemistry
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Define Organic Chemistry and differentiate it from Inorganic Chemistry.
+OR
+Option B: Define Biochemistry and state its primary focus in living organisms.
+Question 2 (part 2).
+Option A: What is Green Chemistry, and why is it important for the environment?
+OR
+Option B: Describe Environmental Chemistry and its role in combating pollution.
+Question 2 (part 3).
+Option A: Compare the macroscopic properties of gases and solids regarding density and compressibility.
+OR
+Option B: Explain why gases are highly compressible while solids are virtually incompressible.
+Question 2 (part 4).
+Option A: Define an Element and describe how it differs from a Compound.
+OR
+Option B: Define a Mixture and distinguish between Homogeneous and Heterogeneous mixtures.
+Question 2 (part 5).
+Option A: What are Allotropes? Name three allotropic forms of carbon.
+OR
+Option B: Describe the structure and electrical conductivity of Graphite.
+Question 2 (part 6).
+Option A: Explain why Diamond is extremely hard and acts as an electrical insulator.
+OR
+Option B: Describe Buckyballs (C-60) and state their physical properties and molecular shape.
+Question 2 (part 7).
+Option A: Define a Solution and explain the terms Solute and Solvent with examples.
+OR
+Option B: What is an Aqueous Solution? Give two common laboratory examples.
+Question 2 (part 8).
+Option A: Differentiate between Saturated and Unsaturated solutions based on solute concentration.
+OR
+Option B: What is a Supersaturated Solution? How can it be prepared in the laboratory?
+
+Question 2 (part 9).
+Option A: State the effect of temperature on the solubility of NaCl and Ca(OH)2.
+OR
+Option B: Describe how temperature affects the solubility of NH4Cl compared to Ce2(SO4)3.
+Question 2 (part 10).
+Option A: Define Colloids and explain the Tyndall Effect with a real-life example.
+OR
+Option B: What is a Suspension? Explain why it is heterogeneous and unstable.
+Question 2 (part 11).
+Option A: Differentiate between 'Science', 'Technology', and 'Engineering'.
+OR
+Option B: Provide a real-life example of how Science, Technology, and Engineering collaborate.
+Question 2 (part 12).
+Option A: How does Analytical Chemistry assist forensic scientists in criminal investigations?
+OR
+Option B: Explain the role of Medicinal Chemistry in modern healthcare and pharmacology.
+Question 2 (part 13).
+Option A: Explain the concept of Plasma as the fourth state of matter.
+OR
+Option B: What is a Bose-Einstein Condensate, and under what conditions does it exist?
+Question 2 (part 14).
+Option A: What is an alloy? Give the composition and uses of Brass.
+OR
+Option B: Differentiate between concentrated and dilute solutions.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Analyze the three main allotropes of carbon: Diamond, Graphite, and Buckyballs. Differentiate them based
+on hybridization/structure, conductivity, and hardness. [Marks: 6.5]
+OR
+Option  B:  Explain  the  classification  of  matter.  Draw  the  complete  hierarchy  diagram  showing  pure  substances,
+mixtures, elements, compounds, colloids, and suspensions. [Marks: 6.5]
+
+Question 4.
+Option A: Describe the preparation and testing of Saturated, Unsaturated, and Supersaturated solutions using sugar
+and water as an experimental example. [Marks: 6.5]
+OR
+Option  B:  Define  Solubility.  Analyze  the  effect  of  temperature  on  solubility  curves,  citing  examples  of  solute  types
+whose solubility increases, decreases, or remains constant. [Marks: 6.5]
+Question 5.
+Option  A:  Compare  Solutions,  Colloids,  and  Suspensions  in  a  comprehensive  matrix  based  on  particle  size,
+homogeneity, Tyndall effect, filtration, and settling behavior. [Marks: 6.5]
+OR
+Option B: Explain with examples how science, technology, and engineering are interconnected. Discuss three daily
+life applications of chemistry. [Marks: 6.5]
+Question 6.
+Option A: Formulate essential questions for physical, organic, inorganic, and biochemistry. Explain how these fields
+solve global challenges like energy and health. [Marks: 6.5]
+OR
+Option  B:  Discuss  the  characteristics  of  water-filtration  and  solar-energy  systems,  detailing  the  role  of  chemical
+principles in their design. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 1
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CChemistry is defined as the science that investigates the materials of the universe (matter)
+and their changes [1].
+Q2BOrganic Chemistry deals with substances containing carbon, excluding carbonates,
+bicarbonates, and oxides [1].
+Q3CPhysical chemistry is the branch that deals with laws and theories to understand structure
+and changes of matter [1].
+Q4BThe branch that deals with physical and chemical changes in living organisms is called
+biochemistry [1].
+Q5CEnvironmental chemistry deals with the study of chemical and toxic substances that pollute
+the environment and mitigation [1].
+Q6CBEC is defined as the state of matter where separate atoms are cooled to near absolute
+zero [16].
+Q7CGases have low density at normal conditions due to large spaces between molecules [17].
+Q8BGraphite is composed of flat 2D layers of hexagonally arranged carbon atoms [18].
+Q9DBuckyballs (C-60) have a football-like fused hollow ring structure [19].
+Q10BA solution is a homogeneous mixture of two or more substances [19].
+Q11AA solution containing maximum amount of solute at a given temperature is saturated [21].
+Q12CA solution containing lesser amount of solute than required to saturate is unsaturated [21].
+Q13BA colloid has particle sizes between 1 and 1000 nm [24].
+Q14CMuddy water is an example of suspension, which is heterogeneous and separates [24].
+Q15CThese macroscopic properties visualize the differences in states of matter [17].
+Q16BA compound is formed when two or more elements chemically combine [18].
+Q17CTechnology is the process of applying scientific knowledge to practical applications [10].
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Define Organic Chemistry and differentiate it from Inorganic Chemistry.
+Model  Answer  A:  Organic  Chemistry  deals  with  covalent  carbon  compounds.  Inorganic  Chemistry  deals  with  all  other
+elements and compounds [1].
+Option B: Define Biochemistry and state its primary focus in living organisms.
+Model Answer B: Biochemistry deals with the chemical substances and physical/chemical changes in living organisms [1].
+
+Question 2 (part 2) Solution:
+Option A: What is Green Chemistry, and why is it important for the environment?
+Model  Answer  A:  Green  Chemistry  focuses  on  designing  chemical  products  and  processes  that  reduce  or  eliminate
+hazardous substances [1].
+Option B: Describe Environmental Chemistry and its role in combating pollution.
+Model Answer B: Environmental Chemistry deals with chemical and toxic substances in the environment and their biological
+impacts [1].
+Question 2 (part 3) Solution:
+Option A: Compare the macroscopic properties of gases and solids regarding density and compressibility.
+Model Answer A: Gases have low density and high compressibility; solids have high density and are incompressible [17].
+Option B: Explain why gases are highly compressible while solids are virtually incompressible.
+Model  Answer  B:  Gases  have  large  empty  spaces  between  molecules,  allowing  compression;  solid  molecules  are  tightly
+packed [17].
+Question 2 (part 4) Solution:
+Option A: Define an Element and describe how it differs from a Compound.
+Model  Answer  A:  An  element  consists  of  only  one  type  of  atom.  A  compound  consists  of  different  elements  chemically
+combined [18].
+Option B: Define a Mixture and distinguish between Homogeneous and Heterogeneous mixtures.
+Model  Answer  B:  A  mixture  is  physically  combined  and  can  be  homogeneous  (uniform,  e.g.,  solution)  or  heterogeneous
+(non-uniform, e.g., suspension) [19].
+Question 2 (part 5) Solution:
+Option A: What are Allotropes? Name three allotropic forms of carbon.
+Model  Answer  A:  Allotropes  are  different  physical  forms  of  the  same  element.  Carbon  allotropes:  Diamond,  Graphite,
+Buckyballs [18].
+Option B: Describe the structure and electrical conductivity of Graphite.
+Model Answer B: Graphite has 2D hexagonal layers with free delocalized electrons, making it a good electrical conductor
+[18].
+Question 2 (part 6) Solution:
+Option A: Explain why Diamond is extremely hard and acts as an electrical insulator.
+Model Answer A: Diamond has a rigid 3D tetrahedral network of covalently bonded carbon with no free electrons, making it
+hard and an insulator [18, 19].
+Option B: Describe Buckyballs (C-60) and state their physical properties and molecular shape.
+Model  Answer  B:  Buckyballs  are  football-shaped  hollow  cages  of  60  carbon  atoms,  containing  pentagons  and  hexagons
+[19].
+Question 2 (part 7) Solution:
+Option A: Define a Solution and explain the terms Solute and Solvent with examples.
+Model  Answer  A:  A  solution  is  a  homogeneous  mixture.  Solute  is  dissolved  (e.g.,  salt);  solvent  does  the  dissolving  (e.g.,
+water) [19].
+Option B: What is an Aqueous Solution? Give two common laboratory examples.
+Model Answer B: An aqueous solution uses water as the solvent. Examples: NaCl in water, CuSO4 in water [20].
+
+Question 2 (part 8) Solution:
+Option A: Differentiate between Saturated and Unsaturated solutions based on solute concentration.
+Model Answer A: Saturated has max solute at that temperature; unsaturated has less than saturated capacity [21].
+Option B: What is a Supersaturated Solution? How can it be prepared in the laboratory?
+Model  Answer  B:  Supersaturated  contains  more  solute  than  saturated.  Prepared  by  heating  saturated  solution,  adding
+solute, and cooling slowly [21].
+Question 2 (part 9) Solution:
+Option A: State the effect of temperature on the solubility of NaCl and Ca(OH)2.
+Model  Answer  A:  NaCl  solubility  increases  slightly  with  temperature;  Ca(OH)2  solubility  decreases  with  increasing
+temperature [22].
+Option B: Describe how temperature affects the solubility of NH4Cl compared to Ce2(SO4)3.
+Model Answer B: NH4Cl solubility increases sharply with temperature, while Ce2(SO4)3 decreases [22].
+Question 2 (part 10) Solution:
+Option A: Define Colloids and explain the Tyndall Effect with a real-life example.
+Model Answer A: Colloids have intermediate particle size and scatter light (Tyndall Effect), e.g., light beam through milk [24].
+Option B: What is a Suspension? Explain why it is heterogeneous and unstable.
+Model  Answer  B:  A  suspension  has  large  particles  (>1000  nm)  that  do  not  dissolve  and  settle  down  upon  standing,  e.g.,
+muddy water [24].
+Question 2 (part 11) Solution:
+Option A: Differentiate between 'Science', 'Technology', and 'Engineering'.
+Model  Answer  A:  Science  seeks  to  understand  nature.  Technology  applies  science.  Engineering  designs  and  builds
+systems [9, 10].
+Option B: Provide a real-life example of how Science, Technology, and Engineering collaborate.
+Model  Answer  B:  Harnessing  solar  energy:  Science  studies  photovoltaic  effect,  Technology  creates  solar  panels,
+Engineering constructs solar farms [11].
+Question 2 (part 12) Solution:
+Option A: How does Analytical Chemistry assist forensic scientists in criminal investigations?
+Model  Answer  A:  Forensic  chemistry  uses  analytical  tools  to  identify  physical  traces,  drugs,  toxins,  and  paint  at  crime
+scenes [1].
+Option B: Explain the role of Medicinal Chemistry in modern healthcare and pharmacology.
+Model Answer B: Medicinal chemistry designs and synthesizes drugs that interact with biological targets to treat diseases
+[1].
+Question 2 (part 13) Solution:
+Option A: Explain the concept of Plasma as the fourth state of matter.
+Model Answer A: Plasma is highly ionized gas consisting of free electrons, positive ions, and excited neutral atoms [16, 17].
+Option B: What is a Bose-Einstein Condensate, and under what conditions does it exist?
+Model Answer B: BEC is a state of matter formed when separate atoms are cooled to temperatures very close to absolute
+zero [16].
+Question 2 (part 14) Solution:
+Option A: What is an alloy? Give the composition and uses of Brass.
+Model  Answer  A:  An  alloy  is  a  solid  solution  of  metals.  Brass  is  made  of  copper  and  zinc,  used  in  decorative  items  and
+plumbing [20].
+Option B: Differentiate between concentrated and dilute solutions.
+Model Answer B: Concentrated solution contains relatively large solute; dilute contains a relatively small amount [22].
+
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Analyze  the  three  main  allotropes  of  carbon:  Diamond,  Graphite,  and  Buckyballs.  Differentiate  them  based  on
+hybridization/structure, conductivity, and hardness.
+Detailed Model Answer A: Diamond has tetrahedral structure, no free electrons (insulator), and is extremely hard. Graphite
+has planar hexagonal sheets, free electrons (conductor), and is soft/slippery. Buckyballs have hollow spherical cages [18,
+19].
+Option  B:  Explain  the  classification  of  matter.  Draw  the  complete  hierarchy  diagram  showing  pure  substances,  mixtures,
+elements, compounds, colloids, and suspensions.
+Detailed Model Answer B: Matter divides into Pure Substances (Elements & Compounds) and Mixtures (Homogeneous like
+Solutions, Heterogeneous like Colloids and Suspensions) [19].
+Question 4 Solution:
+Option A: Describe the preparation and testing of Saturated, Unsaturated, and Supersaturated solutions using sugar and
+water as an experimental example.
+Detailed Model Answer A: Add sugar to 100g water until it stops dissolving (saturated). Add more water (unsaturated). Heat
+saturated solution, add more sugar, and cool slowly (supersaturated) [21].
+Option B: Define Solubility. Analyze the effect of temperature on solubility curves, citing examples of solute types whose
+solubility increases, decreases, or remains constant.
+Detailed Model Answer B: Solubility is max solute in 100g solvent. KNO3/NH4Cl increase with temperature. Ca(OH)2/SO2
+gas decrease with temperature. NaCl remains nearly constant [22, 23].
+Question 5 Solution:
+Option A: Compare Solutions, Colloids, and Suspensions in a comprehensive matrix based on particle size, homogeneity,
+Tyndall effect, filtration, and settling behavior.
+Detailed  Model  Answer  A:  Solutions  (<1nm,  homogeneous,  no  Tyndall,  passes  filter,  doesn't  settle).  Colloids  (1-1000nm,
+heterogeneous-looking  homogeneous,  Tyndall,  passes  filter,  doesn't  settle).  Suspensions  (>1000nm,  heterogeneous,
+Tyndall, retained, settles) [24].
+Option  B:  Explain  with  examples  how  science,  technology,  and  engineering  are  interconnected.  Discuss  three  daily  life
+applications of chemistry.
+Detailed  Model  Answer  B:  Science  discovers  laws;  engineering  designs  systems;  technology  manufactures.  Chemistry
+applications: medicines (organic), batteries (inorganic), forensic tests (analytical) [8, 9, 10].
+Question 6 Solution:
+Option A: Formulate essential questions for physical, organic, inorganic, and biochemistry. Explain how these fields solve
+global challenges like energy and health.
+Detailed  Model  Answer  A:  Physical:  How  do  bonds  form?  Organic:  Why  is  carbon  the  backbone?  Inorganic:  How  does
+periodic  table  organize  elements?  Biochemistry:  How  do  proteins  function?  These  address  energy  (batteries)  and  health
+(drugs) [7, 8].
+Option B: Discuss the characteristics of water-filtration and solar-energy systems, detailing the role of chemical principles in
+their design.
+Detailed  Model  Answer  B:  Solar-energy  uses  semiconductor  chemistry.  Water  filtration  uses  chemical  coagulation,
+sedimentation, and active carbon adsorption to remove contaminants [11].
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 2
+Syllabus Focus: Units 3 & 5 (Atomic Structure & Chemical Bonding)
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. In Rutherford's experiment, alpha particles were bombarded on a thin foil of:
+A) SilverB) Gold
+C) CopperD) Gold-plated Iron
+Q2. According to Bohr's model, the angular momentum of an electron is an integral multiple of:
+A) h/2B) h/2π
+C) 2π/hD) h/λ
+Q3. The maximum number of electrons that a d-subshell can accommodate is:
+A) 2B) 6
+C) 10D) 14
+Q4. Which isotope is commonly used to irradiate cancer cells to shrink tumors?
+A) Carbon-14B) Iodine-131
+C) Cobalt-60D) Sodium-24
+Q5. Atomic number or proton number is indicated by the symbol:
+A) AB) Z
+C) ND) M
+Q6. Which bond is formed by the complete transfer of electrons from one atom to another?
+A) CovalentB) Ionic
+C) Coordinate CovalentD) Metallic
+Q7. An atom is electrically neutral because:
+A) No neutronsB) Protons equal Neutrons
+C) Protons equal ElectronsD) Nucleus is neutral
+Q8. The relative mass of an electron is approximately:
+A) 1 amuB) 1836 amu
+C) 1/1836 amuD) 0.5 amu
+
+Q9. Which sub-shell has the lowest energy and is filled first?
+A) 2sB) 1s
+C) 2pD) 3s
+Q10. An ionic bond is formed between sodium (Na) and chlorine (Cl). Na becomes:
+A) AnionB) Cation
+C) IsotopeD) Molecule
+Q11. Which of the following compounds has a coordinate covalent bond?
+A) H2OB) NH3
+C) NH4+D) CH4
+Q12. The electronegativity difference in a polar covalent bond is:
+A) ZeroB) Less than 0.4
+C) Significant but less than 1.7D) Greater than 1.7
+Q13. In a metallic bond, metal cations are held together by a:
+A) Sea of delocalized electronsB) Shared pair of electrons
+C) Electrostatic force with anionsD) Hydrogen bonds
+Q14. The relative atomic mass scale is based on which standard isotope?
+A) Hydrogen-1B) Oxygen-16
+C) Carbon-12D) Uranium-238
+Q15. Chlorine-35 and Chlorine-37 are examples of:
+A) AllotropesB) Isobars
+C) IsotopesD) Cations
+Q16. Which intermolecular force is responsible for the high boiling point of water?
+A) Dipole-dipole forcesB) London dispersion
+C) Hydrogen bondingD) Covalent bonding
+Q17. According to octet rule, atoms try to acquire how many electrons in valence shell?
+A) 2B) 8
+C) 18D) 32
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Differentiate between Rutherford's Atomic Model and Bohr's Atomic Theory regarding electron orbits.
+OR
+Option B: Describe the defects of Rutherford's Atomic Model and how Bohr resolved them.
+Question 2 (part 2).
+Option A: Define isotopes and list the isotopes of hydrogen with their proton and neutron counts.
+OR
+Option B: Describe three practical applications of radioactive isotopes in medicine and industry.
+Question 2 (part 3).
+Option A: Define Aufbau Principle and write the electronic configuration of Sodium (Z=11) and Chlorine (Z=17).
+OR
+Option B: Differentiate between Shells and Sub-shells. List the sub-shells of the M shell.
+Question 2 (part 4).
+Option A: Define Octet and Duplet rules. Give one example of an element obeying each.
+OR
+Option B: Explain why noble gases are highly stable and chemically inert.
+Question 2 (part 5).
+Option A: Describe the formation of Cations and Anions with one chemical equation for each.
+OR
+Option B: Write the electronic configuration of Magnesium ion (Mg2+) and Oxide ion (O2-).
+Question 2 (part 6).
+Option A: Define Ionic Bond. Illustrate the formation of sodium chloride (NaCl) using Lewis dot structure.
+OR
+Option B: Define Covalent Bond and distinguish between Single, Double, and Triple covalent bonds.
+Question 2 (part 7).
+Option A: Differentiate between Polar and Non-polar covalent bonds with examples.
+OR
+Option B: What is a Coordinate Covalent Bond? Illustrate its formation in the ammonium ion (NH4+).
+Question 2 (part 8).
+Option A: Define Hydrogen Bonding and explain its impact on the boiling point of water.
+OR
+Option B: Differentiate between covalent compounds and metallic substances regarding electrical conductivity.
+
+Question 2 (part 9).
+Option A: Explain why ionic compounds have high melting and boiling points compared to covalent compounds.
+OR
+Option B: Describe the structure and properties of metallic crystals based on the 'electron sea' model.
+Question 2 (part 10).
+Option A: What is the significance of Carbon-12 in establishing the relative atomic mass unit?
+OR
+Option B: Calculate the relative atomic mass of Carbon if it has 98.8% C-12 and 1.1% C-13.
+Question 2 (part 11).
+Option A: Describe the Heisenberg Uncertainty Principle and its impact on the Bohr model.
+OR
+Option B: Explain the dual nature of electrons as proposed by de Broglie.
+Question 2 (part 12).
+Option A: State the relative charges and absolute masses of a Proton, Neutron, and Electron.
+OR
+Option B: Explain how subatomic particles behave when passed through an electric field.
+Question 2 (part 13).
+Option A: Describe how radioactivity represents nuclear instability. Give one example of uranium decay.
+OR
+Option B: What is nuclear force, and how does it hold protons and neutrons together in the nucleus?
+Question 2 (part 14).
+Option A: State three uses of Diamond and relate them to its giant covalent structure.
+OR
+Option B: Differentiate between Intermolecular and Intramolecular forces with reference to H2O.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Describe Rutherford's Gold Foil Experiment. Detail the observations, conclusions, and defects identified in
+this model of the atom. [Marks: 6.5]
+OR
+Option  B:  Describe  Bohr's  Atomic  Theory  in  detail.  State  all  of  its  core  postulates  and  write  the  mathematical
+expression for energy differences. [Marks: 6.5]
+
+Question 4.
+Option  A:  Compare  the  formation,  properties,  and  physical  states  of  Ionic  and  Covalent  compounds.  Provide  a
+comprehensive comparative matrix. [Marks: 6.5]
+OR
+Option  B:  Discuss  the  concept  of  chemical  bonding.  Differentiate  between  polar  covalent,  non-polar  covalent,  and
+coordinate covalent bonds, providing dot-cross structures for H2O, CH4, and NH4+. [Marks: 6.5]
+Question 5.
+Option A: Explain the concept of Metallic Bonding using the Electron Sea Model. Detail how this bonding accounts
+for electrical conductivity, thermal conductivity, and malleability. [Marks: 6.5]
+OR
+Option  B:  Define  Isotopes.  Detail  the  isotopic  structures,  abundance,  and  relative  atomic  masses  of  Carbon  and
+Chlorine. [Marks: 6.5]
+Question 6.
+Option A: Explain the concept of Electronic Configuration. Describe the Aufbau Principle, Pauli Exclusion Principle,
+and Hund's Rule. Write the electronic configuration for elements from atomic numbers 1 to 18. [Marks: 6.5]
+OR
+Option  B:  Discuss  Intermolecular  Forces.  Explain  Dipole-Dipole  interactions  and  Hydrogen  Bonding.  Detail  how
+hydrogen bonding affects the physical properties of water, ice, and organic polymers. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 2
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1BRutherford bombarded a very thin gold foil of 0.00004cm thickness with alpha particles [29].
+Q2BBohr stated that angular momentum of electron is an integral multiple of h/2π [30].
+Q3CA d-subshell can accommodate a maximum of 10 electrons [41].
+Q4CCobalt-60 is commonly used to irradiate cancer cells [38].
+Q5BProton number refers to the number of protons and is indicated by the symbol Z [33].
+Q6BIonic bonds are formed when one atom completely transfers electrons to another [76].
+Q7CAtoms are electrically neutral because protons equal electrons [33].
+Q8CAn electron's relative mass is approximately 1/1836 amu [32].
+Q9BAccording to Aufbau Principle, electrons fill the lowest energy 1s level first [41].
+Q10BSodium loses an electron to form a positively charged cation, Na+ [76].
+Q11CAmmonium ion (NH4+) has a coordinate covalent bond formed by donor nitrogen [84].
+Q12CPolar covalent bonds have a significant electronegativity difference, causing partial charges
+[84].
+Q13AMetallic bonds consist of a sea of delocalized valence electrons holding cations [90].
+Q14CThe standard relative atomic mass scale is based on Carbon-12 having exactly 12 amu [34].
+Q15CThese are isotopes of chlorine with 17 protons but different neutrons [37].
+Q16CHydrogen bonding in water causes high attractive forces and higher boiling point [86].
+Q17BThe octet rule states that atoms tend to participate in bonding to acquire eight electrons [75].
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Differentiate between Rutherford's Atomic Model and Bohr's Atomic Theory regarding electron orbits.
+Model Answer A: Rutherford proposed planetary orbits with continuous energy loss. Bohr proposed fixed stationary orbits
+with quantized energy [29, 30].
+Option B: Describe the defects of Rutherford's Atomic Model and how Bohr resolved them.
+Model Answer B: Rutherford predicted continuous spectra and atomic collapse. Bohr solved this by stating electrons do not
+radiate energy while in fixed orbits [29, 30].
+Question 2 (part 2) Solution:
+Option A: Define isotopes and list the isotopes of hydrogen with their proton and neutron counts.
+Model  Answer  A:  Isotopes  have  same  protons  but  different  neutrons.  Hydrogen:  Protium  (1p,  0n),  Deuterium  (1p,  1n),
+Tritium (1p, 2n) [35, 36].
+Option B: Describe three practical applications of radioactive isotopes in medicine and industry.
+Model Answer B: Cobalt-60 treats cancer. Iodine-131 diagnoses thyroid. Carbon-14 is used for radiocarbon dating of fossils
+[38].
+
+Question 2 (part 3) Solution:
+Option A: Define Aufbau Principle and write the electronic configuration of Sodium (Z=11) and Chlorine (Z=17).
+Model Answer A: Aufbau principle states electrons fill lowest energy subshells first. Na: 1s2 2s2 2p6 3s1. Cl: 1s2 2s2 2p6
+3s2 3p5 [41].
+Option B: Differentiate between Shells and Sub-shells. List the sub-shells of the M shell.
+Model Answer B: Shells are main orbits (n). Sub-shells (s, p, d, f) are sub-levels within shells. M-shell (n=3) has 3s, 3p, 3d
+subshells [41].
+Question 2 (part 4) Solution:
+Option A: Define Octet and Duplet rules. Give one example of an element obeying each.
+Model  Answer  A:  Octet:  acquiring  8  electrons  (e.g.,  Oxygen  forming  oxide).  Duplet:  acquiring  2  electrons  (e.g.,  Lithium
+losing 1e to mimic Helium) [75].
+Option B: Explain why noble gases are highly stable and chemically inert.
+Model Answer B: Noble gases have completely filled valence s and p subshells (ns2 np6), giving them maximum electronic
+stability [74].
+Question 2 (part 5) Solution:
+Option A: Describe the formation of Cations and Anions with one chemical equation for each.
+Model Answer A: Cation: Na -> Na+ + e- (electron loss). Anion: Cl + e- -> Cl- (electron gain) [39, 40].
+Option B: Write the electronic configuration of Magnesium ion (Mg2+) and Oxide ion (O2-).
+Model Answer B: Mg2+ (Z=12, lost 2e): 1s2 2s2 2p6. O2- (Z=8, gained 2e): 1s2 2s2 2p6 [39, 40].
+Question 2 (part 6) Solution:
+Option A: Define Ionic Bond. Illustrate the formation of sodium chloride (NaCl) using Lewis dot structure.
+Model Answer A: Ionic bond is electrostatic force between cations and anions. Na transfer electron to Cl forming Na+ and
+Cl- [76, 78].
+Option B: Define Covalent Bond and distinguish between Single, Double, and Triple covalent bonds.
+Model  Answer  B:  Covalent  bond  involves  sharing  of  electrons.  Single  (1  pair  shared,  H2),  Double  (2  pairs,  O2),  Triple  (3
+pairs, N2) [80, 81].
+Question 2 (part 7) Solution:
+Option A: Differentiate between Polar and Non-polar covalent bonds with examples.
+Model  Answer  A:  Polar  covalent  has  unequal  sharing  due  to  electronegativity  difference  (e.g.,  HCl).  Non-polar  has  equal
+sharing (e.g., H2) [84].
+Option B: What is a Coordinate Covalent Bond? Illustrate its formation in the ammonium ion (NH4+).
+Model  Answer  B:  Formed  when  one  atom  provides  both  electrons  for  sharing.  NH3  (donor)  shares  lone  pair  with  H+
+(acceptor) to form NH4+ [84].
+Question 2 (part 8) Solution:
+Option A: Define Hydrogen Bonding and explain its impact on the boiling point of water.
+Model Answer A: Hydrogen bond is attractive force between highly electronegative atom and hydrogen. Water has strong
+hydrogen bonds, elevating boiling point [86].
+Option B: Differentiate between covalent compounds and metallic substances regarding electrical conductivity.
+Model Answer B: Covalent compounds are insulators (no free electrons). Metals are highly conductive due to free-flowing
+delocalized electrons [87, 91].
+
+Question 2 (part 9) Solution:
+Option A: Explain why ionic compounds have high melting and boiling points compared to covalent compounds.
+Model Answer A: Ionic compounds have a rigid network held by strong electrostatic forces. Covalent compounds are held
+by weaker intermolecular forces [88].
+Option B: Describe the structure and properties of metallic crystals based on the 'electron sea' model.
+Model  Answer  B:  Metallic  crystals  consist  of  positive  metal  ions  surrounded  by  mobile  delocalized  valence  electrons,
+enabling conductivity and malleability [90].
+Question 2 (part 10) Solution:
+Option A: What is the significance of Carbon-12 in establishing the relative atomic mass unit?
+Model Answer A: Carbon-12 was chosen as the standard reference. One amu is exactly 1/12th the mass of one Carbon-12
+atom [34].
+Option B: Calculate the relative atomic mass of Carbon if it has 98.8% C-12 and 1.1% C-13.
+Model Answer B: Relative mass = (98.8 * 12 + 1.1 * 13) / 100 = 12.00 amu [38].
+Question 2 (part 11) Solution:
+Option A: Describe the Heisenberg Uncertainty Principle and its impact on the Bohr model.
+Model  Answer  A:  It  is  impossible  to  simultaneously  determine  both  the  exact  position  and  momentum  of  an  electron,
+contradicting Bohr's fixed orbits [30].
+Option B: Explain the dual nature of electrons as proposed by de Broglie.
+Model Answer B: De Broglie proposed that moving electrons exhibit both wave-like and particle-like characteristics [31].
+Question 2 (part 12) Solution:
+Option A: State the relative charges and absolute masses of a Proton, Neutron, and Electron.
+Model Answer A: Proton (+1, 1 amu), Neutron (0, 1 amu), Electron (-1, 1/1836 amu) [32].
+Option B: Explain how subatomic particles behave when passed through an electric field.
+Model  Answer  B:  Protons  deflect  toward  the  negative  plate,  electrons  deflect  strongly  toward  the  positive  plate,  neutrons
+pass straight [32].
+Question 2 (part 13) Solution:
+Option A: Describe how radioactivity represents nuclear instability. Give one example of uranium decay.
+Model Answer A: Radioactivity is the spontaneous decay of unstable nuclei. U-238 decays to Thorium-234 emitting an alpha
+particle [34].
+Option B: What is nuclear force, and how does it hold protons and neutrons together in the nucleus?
+Model  Answer  B:  Nuclear  force  is  a  strong  attractive  force  that  binds  protons  and  neutrons  together,  overcoming
+electrostatic repulsion [31].
+Question 2 (part 14) Solution:
+Option A: State three uses of Diamond and relate them to its giant covalent structure.
+Model Answer A: Hardness makes it useful for glass cutting, jewelry (refractive index), and medical tools [89, 90].
+Option B: Differentiate between Intermolecular and Intramolecular forces with reference to H2O.
+Model Answer B: Intramolecular is covalent bond holding H and O together. Intermolecular is hydrogen bond holding H2O
+molecules together [85].
+Section C Model Answers
+
+Question 3 Solution:
+Option A: Describe Rutherford's Gold Foil Experiment. Detail the observations, conclusions, and defects identified in this
+model of the atom.
+Detailed  Model  Answer  A:  Rutherford  bombarded  gold  foil  with  alpha  particles.  Most  passed  undeflected  (empty  space);
+some deflected at large angles (positive nucleus) [29].
+Option B: Describe Bohr's Atomic Theory in detail. State all of its core postulates and write the mathematical expression for
+energy differences.
+Detailed   Model   Answer   B:   Bohr   proposed   electrons   revolve   in   circular   orbits   of   quantized   energy.   Energy   is
+absorbed/emitted only when changing orbits: dE = E2 - E1 = h_nu [30].
+Question 4 Solution:
+Option  A:  Compare  the  formation,  properties,  and  physical  states  of  Ionic  and  Covalent  compounds.  Provide  a
+comprehensive comparative matrix.
+Detailed Model Answer A: Ionic: complete transfer, crystalline solids, high melting points, conduct in molten/aqueous state.
+Covalent: sharing, gases/liquids/solids, lower melting points, insulators [76, 80, 88].
+Option  B:  Discuss  the  concept  of  chemical  bonding.  Differentiate  between  polar  covalent,  non-polar  covalent,  and
+coordinate covalent bonds, providing dot-cross structures for H2O, CH4, and NH4+.
+Detailed  Model  Answer  B:  Polar  covalent  (H2O,  unequal  sharing),  Non-polar  covalent  (CH4,  equal  sharing),  Coordinate
+covalent (NH4+, one-sided donor pair) [81, 82, 84].
+Question 5 Solution:
+Option  A:  Explain  the  concept  of  Metallic  Bonding  using  the  Electron  Sea  Model.  Detail  how  this  bonding  accounts  for
+electrical conductivity, thermal conductivity, and malleability.
+Detailed  Model  Answer  A:  Valence  electrons  form  a  mobile  sea.  Applying  electric  field  drives  electron  flow  (conductivity).
+Layer sliding allows bending without breaking (malleability) [90, 91].
+Option B: Define Isotopes. Detail the isotopic structures, abundance, and relative atomic masses of Carbon and Chlorine.
+Detailed  Model  Answer  B:  Carbon  has  C-12  (98.8%),  C-13  (1.1%),  and  C-14.  Chlorine  has  Cl-35  (75.7%)  and  Cl-37
+(24.23%) [36, 37].
+Question 6 Solution:
+Option  A:  Explain  the  concept  of  Electronic  Configuration.  Describe  the  Aufbau  Principle,  Pauli  Exclusion  Principle,  and
+Hund's Rule. Write the electronic configuration for elements from atomic numbers 1 to 18.
+Detailed Model Answer A: Aufbau principle fills subshells in increasing energy order: 1s, 2s, 2p, 3s, 3p. Configurations of
+elements 1 to 18 obey these rules [41, 49].
+Option B: Discuss Intermolecular Forces. Explain Dipole-Dipole interactions and Hydrogen Bonding. Detail how hydrogen
+bonding affects the physical properties of water, ice, and organic polymers.
+Detailed Model Answer B: Dipole-dipole is force between polar molecules. Hydrogen bonding is super-strong dipole-dipole.
+It causes water's high boiling point and makes ice less dense than water [85, 86].
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 3
+Syllabus Focus: Units 1 to 19 (Comprehensive Chemistry Evaluation)
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 3
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 4
+Syllabus Focus: Board Syllabus Evaluation — Mock 1
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 4
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 5
+Syllabus Focus: Board Syllabus Evaluation — Mock 2
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 5
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 6
+Syllabus Focus: Board Syllabus Evaluation — Mock 3
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 6
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 7
+Syllabus Focus: Board Syllabus Evaluation — Mock 4
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 7
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 8
+Syllabus Focus: Board Syllabus Evaluation — Mock 5
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 8
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 9
+Syllabus Focus: Board Syllabus Evaluation — Mock 6
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 9
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
+
+CHEMISTRY SSC-I (GRADE 9) MODEL PAPER 10
+Syllabus Focus: Board Syllabus Evaluation — Mock 7
+Time Allowed: 3 Hours (Total)Total Marks: 85 Marks
+Section A: 25 Minutes (17 Marks)Sections B & C: 2 Hours 35 Mins (68 Marks)
+SECTION A (Objective Type — 17 Marks)
+Instructions: Time allowed is 25 minutes. Section A is compulsory. All questions carry equal marks (1 mark each).
+Choose the correct option and fill in the corresponding bubble on the response sheet. Do not use pencil or overwrite.
+Q1. According to Bohr's theory, the energy of an electron is:
+A) ZeroB) Continuous
+C) QuantizedD) Infinite
+Q2. Which of the following elements has the highest electronegativity?
+A) OxygenB) Nitrogen
+C) FluorineD) Chlorine
+Q3. The oxidation number of hydrogen in metal hydrides (like NaH) is:
+A) +1B) -1
+C) 0D) +2
+Q4. The branch of chemistry that deals with nuclear reactions and radioactivity is:
+A) IndustrialB) Nuclear chemistry
+C) AstrochemistryD) Biochemistry
+Q5. The vertical columns in the periodic table are known as:
+A) PeriodsB) Groups
+C) BlocksD) Series
+Q6. Which of the following is a transition element?
+A) SodiumB) Iron
+C) ChlorineD) Helium
+Q7. A galvanic cell converts:
+A) Electrical to chemical energyB) Chemical to electrical energy
+C) Heat to workD) Nuclear to heat
+Q8. The pH of a neutral solution at 25 degrees Celsius is:
+A) 0B) 7
+C) 14D) 1
+
+Q9. Which gas is a major contributor to the greenhouse effect and global warming?
+A) NitrogenB) Oxygen
+C) Carbon dioxideD) Argon
+Q10. Homologous series represents organic compounds with:
+A) Same massB) Same functional group and regular structural increments
+C) Different physical propertiesD) No relation
+Q11. The functional group of alcohols is:
+A) -COOHB) -CHO
+C) -OHD) -CO-
+Q12. Proteins are polymers of:
+A) GlucoseB) Amino acids
+C) Fatty acidsD) Nucleotides
+Q13. Which separation technique is based on difference in boiling points?
+A) FiltrationB) Sublimation
+C) DistillationD) Chromatography
+Q14. The mobile phase in paper chromatography is usually a:
+A) SolidB) Liquid (solvent)
+C) GasD) Alum
+Q15. Which element has the electron configuration 1s2 2s2 2p6 3s2?
+A) SodiumB) Magnesium
+C) AluminumD) Silicon
+Q16. The shielding effect across a period:
+A) IncreasesB) Decreases
+C) Remains constantD) Fluctuates
+Q17. Temporary hardness of water is caused by calcium and magnesium:
+A) SulfatesB) Chlorides
+C) BicarbonatesD) Nitrates
+
+SECTION B (Short Answers — 42 Marks)
+Instructions:  Answer  all  fourteen  (14)  short-answer  questions.  Every  item  has  a  100%  internal  choice.  Each
+question  carries  exactly  3  marks.  Support  your  answers  with  chemical  equations,  diagrams,  and  formulas  where
+applicable.
+Question 2 (part 1).
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+OR
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Question 2 (part 2).
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+OR
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Question 2 (part 3).
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+OR
+Option B: Describe Homologous Series and state two of its key characteristics.
+Question 2 (part 4).
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+OR
+Option B: Describe the structure and biological functions of DNA and RNA.
+Question 2 (part 5).
+Option A: Explain the principle of Paper Chromatography.
+OR
+Option B: Describe simple distillation and how it separates water and ethanol.
+Question 2 (part 6).
+Option A: Define Ionization Energy and describe its trend down a group.
+OR
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Question 2 (part 7).
+Option A: State the Octet and Duplet rules with one example of each.
+OR
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Question 2 (part 8).
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+OR
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+
+Question 2 (part 9).
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+OR
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Question 2 (part 10).
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+OR
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Question 2 (part 11).
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+OR
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Question 2 (part 12).
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+OR
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Question 2 (part 13).
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+OR
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Question 2 (part 14).
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+OR
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+SECTION C (Long/Extensive Answers — 26 Marks)
+Instructions: Answer any four (4) extensive questions. Each question carries exactly 6.5 marks. Every item features
+an internal choice. Marks are divided granularly as indicated (e.g., 3.5 + 3 or 4 + 2.5 marks).
+Question 3.
+Option A: Discuss Electrochemistry in detail. Explain the working and construction of a Galvanic (Voltaic) cell with a
+complete labeled diagram and half-cell equations. [Marks: 6.5]
+OR
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations,
+and the industrial significance of this process. [Marks: 6.5]
+
+Question 4.
+Option A: Define and explain Periodic Properties. Describe the periodic trends of Ionization Energy, Atomic Radius,
+Electron Affinity, and Electronegativity across periods and down groups. [Marks: 6.5]
+OR
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of
+placing elements based on electronic configurations. [Marks: 6.5]
+Question 5.
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups.
+Provide a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters. [Marks: 6.5]
+OR
+Option B: Explain water pollution. Detail three major water pollutants (industrial, agricultural, domestic) and outline
+water treatment procedures to make it drinkable. [Marks: 6.5]
+Question 6.
+Option  A:  Explain  the  concept  of  Chemical  Equilibrium.  Detail  the  Law  of  Mass  Action  and  derive  the  equilibrium
+constant expression (Kc) for a general reversible reaction. [Marks: 6.5]
+OR
+Option   B:   Discuss   the   layers   of   the   atmosphere.   Explain   the   chemistry   of   ozone   depletion,   the   role   of
+chlorofluorocarbons (CFCs), and mitigation strategies. [Marks: 6.5]
+
+SOLUTION & GRADING GUIDE — MODEL PAPER 10
+Section A Answer Key & Explanations
+Q.NoCorrect
+Option
+SLO Grounding / Explanation
+Q1CBohr model postulates that the energy of an electron in an orbit is quantized [30].
+Q2CFluorine has the highest electronegativity of 4.0 on the Pauling scale [60].
+Q3BIn metal hydrides, hydrogen is highly electronegative relative to metals and has oxidation
+state -1.
+Q4BNuclear chemistry is the study of changes that occur in atomic nuclei [7].
+Q5BVertical columns are groups, representing families of elements with similar properties [49].
+Q6BTransition elements are d-block elements located in groups 3 to 12, e.g., Iron [54, 64].
+Q7BGalvanic or voltaic cells spontaneously convert chemical energy into electrical energy.
+Q8BA neutral solution has pH exactly equal to 7 at 25 °C.
+Q9CCarbon dioxide (CO2) is a major greenhouse gas absorbing infrared radiation [82].
+Q10BHomologous series represents organic molecules sharing functional groups with regular
+CH2 increments.
+Q11CThe hydroxyl group (-OH) is the characteristic functional group of alcohols.
+Q12BProteins are biochemistry polymers made of monomer amino acids.
+Q13CDistillation separates components of a mixture based on their boiling points.
+Q14BPaper chromatography uses liquid solvent as mobile phase and paper fibers as stationary
+phase.
+Q15BMagnesium has atomic number 12 and configuration 1s2 2s2 2p6 3s2 [50, 52].
+Q16CAcross a period, shielding effect remains nearly constant because inner shell electrons
+remain same [55].
+Q17CTemporary water hardness is caused by dissolved calcium and magnesium bicarbonates.
+Section B Model Answers
+Question 2 (part 1) Solution:
+Option A: Explain the difference between a galvanic cell and an electrolytic cell.
+Model Answer A: Galvanic cell generates electricity from chemical reaction. Electrolytic cell uses electricity to drive reaction.
+Option B: Define Oxidation and Reduction in terms of loss and gain of electrons.
+Model Answer B: Oxidation is the loss of electrons; reduction is the gain of electrons.
+Question 2 (part 2) Solution:
+Option A: Define pH and calculate the pH of a 1.0 x 10^-3 M HCl solution.
+Model Answer A: pH = -log[H+] = -log[10^-3] = 3.0 (Acidic solution).
+Option B: What are indicators? Name two synthetic indicators and their colors in acidic media.
+Model Answer B: Indicators change color with pH. Litmus (red in acid), Methyl orange (red in acid).
+
+Question 2 (part 3) Solution:
+Option A: Differentiate between alkanes, alkenes, and alkynes based on bonding.
+Model Answer A: Alkanes have single bonds (C-C). Alkenes have double bonds (C=C). Alkynes have triple bonds (C≡C).
+Option B: Describe Homologous Series and state two of its key characteristics.
+Model  Answer  B:  Homologous  series  share  a  functional  group,  have  general  formulas,  and  adjacent  members  differ  by
+-CH2-.
+Question 2 (part 4) Solution:
+Option A: What are carbohydrates? Classify them into three major classes with examples.
+Model Answer A: Carbohydrates are polyhydroxy aldehydes/ketones. Classes: Monosaccharides (glucose), Disaccharides
+(sucrose), Polysaccharides (starch).
+Option B: Describe the structure and biological functions of DNA and RNA.
+Model Answer B: DNA stores genetic code (double helix). RNA is single-stranded and directs protein synthesis.
+Question 2 (part 5) Solution:
+Option A: Explain the principle of Paper Chromatography.
+Model  Answer  A:  Chromatography  separates  mixtures  based  on  partition  of  components  between  stationary  paper  and
+mobile solvent.
+Option B: Describe simple distillation and how it separates water and ethanol.
+Model Answer B: Distillation heats a liquid mixture to vaporize the lower boiling component (ethanol), then condenses and
+collects it.
+Question 2 (part 6) Solution:
+Option A: Define Ionization Energy and describe its trend down a group.
+Model Answer A: Ionization energy decreases down a group because atomic size increases, reducing nuclear hold [58].
+Option B: Define Shielding Effect and explain why it remains constant across a period.
+Model Answer B: Shielding remains constant across a period because the number of inner shielding shells is constant [55].
+Question 2 (part 7) Solution:
+Option A: State the Octet and Duplet rules with one example of each.
+Model Answer A: Octet: acquiring 8 electrons (O2-). Duplet: acquiring 2 electrons (Li+) [75, 77].
+Option B: Illustrate coordinate covalent bonding in hydronium ion (H3O+).
+Model Answer B: Lone pair on oxygen in H2O is donated to H+ forming H3O+ with coordinate covalent bond [84].
+Question 2 (part 8) Solution:
+Option A: Differentiate between hard and soft water. State two disadvantages of hard water.
+Model Answer A: Hard water doesn't lather with soap. Disadvantages: wastes soap, scales boilers.
+Option B: Describe how temporary hardness can be removed by boiling and Clark's method.
+Model Answer B: Boiling decomposes soluble bicarbonates into insoluble carbonates. Clark's method adds slaked lime.
+Question 2 (part 9) Solution:
+Option A: Define Allotropy and name three allotropic forms of sulfur.
+Model Answer A: Allotropy: existence of element in different physical forms. Sulfur allotropes: Rhombic, Monoclinic, Plastic.
+Option B: Describe the industrial manufacture of Sodium Hydroxide using Nelson's cell.
+Model Answer B: Electrolysis of brine in Nelson's cell produces chlorine gas, hydrogen gas, and sodium hydroxide.
+
+Question 2 (part 10) Solution:
+Option A: Explain the greenhouse effect and how CO2 maintains the Earth's temperature.
+Model Answer A: Greenhouse gases trap infrared radiation, warming the atmosphere. Excess CO2 causes global warming
+[8, 82].
+Option B: What is acid rain? Write the chemical equations showing its formation.
+Model Answer B: Acid rain is rain with low pH caused by SO2 and NOx reacting with atmospheric moisture to form H2SO4
+and HNO3.
+Question 2 (part 11) Solution:
+Option A: Describe the role of biochemistry in understanding diseases and nutrition.
+Model Answer A: Biochemistry details metabolism, diagnosing diseases via enzyme/protein tests and regulating nutrition.
+Option B: What are lipids? Distinguish between fats and oils based on saturation.
+Model Answer B: Lipids are water-insoluble esters of fatty acids. Fats are saturated (solid), oils are unsaturated (liquid).
+Question 2 (part 12) Solution:
+Option A: Write the electronic configuration of Calcium (Z=20) and Sulfur (Z=16).
+Model Answer A: Ca: 1s2 2s2 2p6 3s2 3p6 4s2. S: 1s2 2s2 2p6 3s2 3p4 [41].
+Option B: Identify the period, group, and block of an element with atomic number 15.
+Model Answer B: P (Z=15) has configuration 1s2 2s2 2p6 3s2 3p3. It is in Period 3, Group 15 (VA), p-block [49, 50].
+Question 2 (part 13) Solution:
+Option A: Define Salt. Give examples of normal, acidic, and basic salts.
+Model Answer A: Salts are ionic products of acid-base neutralization. Normal (NaCl), Acidic (NaHCO3), Basic (Pb(OH)Cl).
+Option B: What is a neutralization reaction? Explain with a molecular equation.
+Model Answer B: Reaction between acid and base to form salt and water, e.g., HCl + NaOH -> NaCl + H2O.
+Question 2 (part 14) Solution:
+Option A: Differentiate between Polar and Non-polar covalent compounds based on electronegativity.
+Model Answer A: Polar covalent compounds have electronegativity differences (e.g., H-Cl). Non-polar share equally (e.g.,
+Cl-Cl) [84].
+Option B: Describe how dipole-dipole interactions occur between polar molecules.
+Model Answer B: Electrostatic attraction between the partial positive end of one polar molecule and the partial negative end
+of another [85].
+Section C Model Answers
+Question 3 Solution:
+Option  A:  Discuss  Electrochemistry  in  detail.  Explain  the  working  and  construction  of  a  Galvanic  (Voltaic)  cell  with  a
+complete labeled diagram and half-cell equations.
+Detailed Model Answer A: Galvanic cell: zinc anode, copper cathode. Anode: Zn -> Zn2+ + 2e. Cathode: Cu2+ + 2e -> Cu.
+Generates 1.1V electrical potential.
+Option B: Explain the electrolysis of molten sodium chloride in Down's cell. Provide diagrams, chemical equations, and the
+industrial significance of this process.
+Detailed Model Answer B: Down's cell extracts sodium metal. Molten NaCl electrolyzed. Anode (carbon): 2Cl- -> Cl2 + 2e.
+Cath cathode (iron): 2Na+ + 2e -> 2Na.
+
+Question 4 Solution:
+Option  A:  Define  and  explain  Periodic  Properties.  Describe  the  periodic  trends  of  Ionization  Energy,  Atomic  Radius,
+Electron Affinity, and Electronegativity across periods and down groups.
+Detailed  Model  Answer  A:  IE,  EA,  Electronegativity  increase  across  a  period  and  decrease  down  a  group.  Atomic  radius
+decreases across a period and increases down a group [55, 56, 58, 59, 60].
+Option  B:  Explain  the  modern  periodic  table.  Discuss  periods,  groups,  blocks  (s,  p,  d,  f),  and  the  justification  of  placing
+elements based on electronic configurations.
+Detailed Model Answer B: Elements arranged by increasing atomic number. Blocks correspond to filling subshells. Groups
+represent valence electrons [48, 49, 54].
+Question 5 Solution:
+Option A: Describe the chemical characteristics of Organic Compounds. Classify them based on functional groups. Provide
+a table of functional groups for Alcohols, Aldehydes, Ketones, Carboxylic acids, and Esters.
+Detailed  Model  Answer  A:  Organic  compounds  are  carbon-based.  Alcohols  (-OH),  Aldehydes  (-CHO),  Ketones  (-CO-),
+Carboxylic Acids (-COOH), Esters (-COOR).
+Option  B:  Explain  water  pollution.  Detail  three  major  water  pollutants  (industrial,  agricultural,  domestic)  and  outline  water
+treatment procedures to make it drinkable.
+Detailed  Model  Answer  B:  Water  pollutants:  heavy  metals,  fertilizers/pesticides,  domestic  sewage.  Treatment:  screening,
+aeration, coagulation, sedimentation, filtration, disinfection.
+Question 6 Solution:
+Option A: Explain the concept of Chemical Equilibrium. Detail the Law of Mass Action and derive the equilibrium constant
+expression (Kc) for a general reversible reaction.
+Detailed Model Answer A: Law of mass action states rate of reaction is proportional to active masses. For aA + bB <-> cC +
+dD, Kc = ([C]^c [D]^d) / ([A]^a [B]^b).
+Option B: Discuss the layers of the atmosphere. Explain the chemistry of ozone depletion, the role of chlorofluorocarbons
+(CFCs), and mitigation strategies.
+Detailed  Model  Answer  B:  Atmosphere:  Troposphere,  Stratosphere,  Mesosphere,  Thermosphere.  CFCs  release  chlorine
+free radicals under UV, decomposing O3 to O2.
