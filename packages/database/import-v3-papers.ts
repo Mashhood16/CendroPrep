@@ -38,11 +38,17 @@ function cleanMarkdown(str: string): string {
 }
 
 async function main() {
-  const filePath = path.resolve('C:/Users/mashh/.gemini/antigravity/scratch/cendronyx-workspace/chemistry-class-9-fbise-60marks-papers-v5.md');
+  const possiblePaths = [
+    path.resolve(process.cwd(), '../../chemistry-class-9-fbise-60marks-papers-set2.md'),
+    path.resolve(process.cwd(), 'chemistry-class-9-fbise-60marks-papers-set2.md'),
+    path.resolve('C:/Users/mashh/.gemini/antigravity/scratch/cendronyx-workspace/chemistry-class-9-fbise-60marks-papers-set2.md')
+  ];
+  const filePath = possiblePaths.find(p => fs.existsSync(p)) || possiblePaths[0];
+
   console.log(`Reading papers from ${filePath}...`);
   const text = fs.readFileSync(filePath, 'utf-8');
 
-  const chemistrySubject = await prisma.subject.findFirst({
+  let chemistrySubject = await prisma.subject.findFirst({
     where: {
       name: { contains: 'Chemistry', mode: 'insensitive' },
       grade: 9
@@ -50,8 +56,13 @@ async function main() {
   });
 
   if (!chemistrySubject) {
-    console.error("Class 9 Chemistry subject not found in DB!");
-    return;
+    console.log("Class 9 Chemistry subject not found, creating it...");
+    chemistrySubject = await prisma.subject.create({
+      data: {
+        name: 'Chemistry',
+        grade: 9
+      }
+    });
   }
 
   console.log(`Found/Created Class 9 Chemistry Subject ID: ${chemistrySubject.id}`);
