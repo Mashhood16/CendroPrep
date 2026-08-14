@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { prisma } from '@repo/database';
 import { notFound } from 'next/navigation';
 
+export const dynamic = 'force-dynamic';
+
 export default async function SubjectsDashboard({ params }: { params: Promise<{ grade: string }> }) {
   const resolvedParams = await params;
   const grade = parseInt(resolvedParams.grade);

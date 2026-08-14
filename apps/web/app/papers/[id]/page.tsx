@@ -4,6 +4,8 @@ import { prisma } from '@repo/database';
 import { notFound } from 'next/navigation';
 import DynamicPaperViewer from '../components/DynamicPaperViewer';
 
+export const dynamic = 'force-dynamic';
+
 export default async function PaperViewer({ 
   params,
   searchParams

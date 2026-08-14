@@ -2,6 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import { prisma } from '@repo/database';
 
+export const dynamic = 'force-dynamic';
+
 export default async function ClassesDashboard() {
   // Get counts of subjects for each grade
   const subjects = await prisma.subject.findMany({ select: { grade: true } });
