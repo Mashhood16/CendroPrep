@@ -9,8 +9,7 @@ export default async function SubjectPapersDashboard({ params }: { params: Promi
   const { subjectId } = resolvedParams;
 
   const subject = await prisma.subject.findUnique({ 
-    where: { id: subjectId },
-    include: { papers: true } 
+    where: { id: subjectId }
   });
 
   const generatedPapers = await prisma.generatedPaper.findMany({
@@ -34,19 +33,25 @@ export default async function SubjectPapersDashboard({ params }: { params: Promi
             {subject.name} Papers
           </h1>
           <p className="text-text-muted">
-            Access official Past Papers and premium dynamically extracted Mock Exams for {subject.name}.
+            Access premium dynamically extracted Mock Exams and Interactive Past Papers for {subject.name}.
           </p>
         </div>
 
-        {/* Dynamically Extracted Papers Section */}
-        {generatedPapers.length > 0 && (
-          <div>
-            <h2 className="text-2xl font-bold mb-4 flex items-center text-brand-300">
-              <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
-              Extracted Interactive Exams
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {generatedPapers.map(paper => (
+        {/* Interactive Papers Section */}
+        <div>
+          <h2 className="text-2xl font-bold mb-4 flex items-center text-brand-300">
+            <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+            Interactive Past Papers & Exams
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {generatedPapers.length === 0 ? (
+              <div className="col-span-1 md:col-span-3 glass p-12 rounded-3xl text-center border-dashed border-2 border-white/10">
+                <svg className="w-16 h-16 mx-auto text-text-muted mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>
+                <h3 className="text-xl font-bold mb-2">No Interactive Papers Available Yet</h3>
+                <p className="text-text-muted">Once interactive exams are available for {subject.name}, they will appear here.</p>
+              </div>
+            ) : (
+              generatedPapers.map(paper => (
                 <Link href={`/papers/${paper.id}?dynamic=true`} key={paper.id} className="block">
                   <div className="glass p-6 rounded-2xl hover:border-brand-500/50 transition-colors h-full flex flex-col bg-brand-900/10 border-brand-500/30 border">
                     <div className="flex justify-between items-start mb-4">
@@ -61,42 +66,6 @@ export default async function SubjectPapersDashboard({ params }: { params: Promi
                     </div>
                   </div>
                 </Link>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <hr className="border-white/10" />
-
-        {/* Static PDF Papers Section */}
-        <div>
-          <h2 className="text-2xl font-bold mb-4">Static PDF Papers</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {subject.papers.length === 0 ? (
-              <div className="col-span-1 md:col-span-3 glass p-12 rounded-3xl text-center border-dashed border-2 border-white/10">
-                <svg className="w-16 h-16 mx-auto text-text-muted mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>
-                <h3 className="text-xl font-bold mb-2">No Papers Uploaded Yet</h3>
-                <p className="text-text-muted">Once PDF papers are uploaded to {subject.name}, they will appear here.</p>
-              </div>
-            ) : (
-              subject.papers.map(paper => (
-                <Link href={`/papers/${paper.id}`} key={paper.id} className="block">
-                  <div className="glass p-6 rounded-2xl hover:border-white/20 transition-colors h-full flex flex-col">
-                    <div className="flex justify-between items-start mb-4">
-                      <span className={`text-xs font-semibold px-2 py-1 rounded-full ${paper.type === 'PAST_PAPER' ? 'bg-blue-500/20 text-blue-300' : 'bg-white/10 text-gray-300'}`}>
-                        {paper.type.replace('_', ' ')}
-                      </span>
-                      <span className="text-xs text-text-muted font-medium">{paper.year}</span>
-                    </div>
-                    
-                    <h3 className="text-lg font-bold text-white mb-2 flex-grow">{paper.title}</h3>
-                    
-                    <div className="flex items-center text-text-muted hover:text-white text-sm font-medium mt-4 transition-colors">
-                      <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg>
-                      View PDF
-                    </div>
-                  </div>
-                </Link>
               ))
             )}
           </div>
@@ -105,5 +74,6 @@ export default async function SubjectPapersDashboard({ params }: { params: Promi
     </div>
   );
 }
+
 
 

@@ -20,11 +20,13 @@ const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-    const papers = await prisma.generatedPaper.findMany();
-    if (papers.length > 0) {
-        const p = papers[0];
-        console.log("=== Q2 (ii) ===");
-        console.log((p.sectionB_Short as any[])[1]?.ansA);
+    const paper = await prisma.generatedPaper.findFirst();
+    if (paper) {
+      const mcqs = (paper.sectionA_MCQs as any[]);
+      console.log(`Paper title: ${paper.title}`);
+      console.log(`MCQ 1:`, mcqs[0]);
+      console.log(`MCQ 2:`, mcqs[1]);
+      console.log(`MCQ 3:`, mcqs[2]);
     }
 }
 main().catch(console.error).finally(() => prisma.$disconnect());

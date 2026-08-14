@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { prisma } from './index';
+import { prisma } from './index.js';
 
 async function main() {
   const text = fs.readFileSync('pdf-text.txt', 'utf-8');
@@ -194,9 +194,9 @@ async function main() {
   // Clear existing
   await prisma.generatedPaper.deleteMany();
 
-  // Create 10 papers! (1, 2, 3 + 7 duplicates of 3)
-  for (let pNum = 1; pNum <= 10; pNum++) {
-    const sourcePaper = pNum <= 3 ? papers[pNum - 1] : papers[2];
+  // Create 3 papers
+  for (let pNum = 1; pNum <= 3; pNum++) {
+    const sourcePaper = papers[pNum - 1];
     
     // Merge answers into the main JSON structure for easy rendering
     const mcqs = sourcePaper.sectionA_MCQs.map((q: any) => ({
@@ -228,7 +228,7 @@ async function main() {
     });
   }
 
-  console.log('Successfully inserted 10 GeneratedPaper records into the database!');
+  console.log('Successfully inserted 3 GeneratedPaper records into the database!');
 }
 
 main().catch(console.error).finally(() => prisma.$disconnect());

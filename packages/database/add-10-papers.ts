@@ -29,14 +29,7 @@ const prisma = new PrismaClient({ adapter });
 const papers = [
   { title: "Model Paper 1: Chapter-Wise Foundation", page: 3 },
   { title: "Model Paper 2: Atomic Structure & Bonding", page: 6 },
-  { title: "Model Paper 3: Full Book Mock Board Examination", page: 9 },
-  { title: "Model Paper 4: SLO Comprehensive Mock Exam", page: 12 },
-  { title: "Model Paper 5: SLO Comprehensive Mock Exam", page: 15 },
-  { title: "Model Paper 6: SLO Comprehensive Mock Exam", page: 18 },
-  { title: "Model Paper 7: SLO Comprehensive Mock Exam", page: 21 },
-  { title: "Model Paper 8: SLO Comprehensive Mock Exam", page: 24 },
-  { title: "Model Paper 9: SLO Comprehensive Mock Exam", page: 27 },
-  { title: "Model Paper 10: SLO Comprehensive Mock Exam", page: 30 }
+  { title: "Model Paper 3: Full Book Mock Board Examination", page: 9 }
 ];
 
 async function main() {

@@ -1,10 +1,11 @@
-import { prisma } from './index';
+import { prisma } from './index.js';
 
 async function test() {
-  const p = await prisma.generatedPaper.findFirst();
-  console.log('MCQ 1:', JSON.stringify(p?.sectionA_MCQs[0], null, 2));
-  console.log('Short 1:', JSON.stringify(p?.sectionB_Short[0], null, 2));
-  console.log('Long 1:', JSON.stringify(p?.sectionC_Long[0], null, 2));
+  const papers = await prisma.generatedPaper.findMany({
+    select: { id: true, title: true, subjectId: true }
+  });
+  console.log('Generated papers in DB:', papers);
   prisma.$disconnect();
 }
 test();
+

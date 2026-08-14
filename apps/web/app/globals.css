@@ -1,5 +1,24 @@
+@import "katex/dist/katex.min.css";
 @import "@repo/ui/styles.css";
 @source "../../../packages/ui/src";
+
+.katex-display {
+  margin: 0.75em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.25em 0;
+  background: transparent !important;
+}
+
+.katex {
+  font-size: 1.05em;
+  text-shadow: none !important;
+  background: transparent !important;
+}
+
+.katex * {
+  background: transparent !important;
+}
 
 @media print {
   body {

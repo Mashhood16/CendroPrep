@@ -40,8 +40,8 @@ export default function PrintPaperLayout({ paper }: { paper: any }) {
 
       <div className="flex justify-between items-start mb-6">
         <div>
-          <div className="font-bold underline text-lg mb-2">Section-A (Marks 12)</div>
-          <div className="font-bold text-sm mb-2">Time Allowed: 20 minutes</div>
+          <div className="font-bold underline text-lg mb-2">Section-A (Objective - Marks 30)</div>
+          <div className="font-bold text-sm mb-2">Total Theory Marks: 60 (Objective 30 Marks / Subjective 30 Marks)</div>
           <div className="text-xs leading-tight w-64 text-justify">
             Section – A is compulsory. All parts of this section are to be answered on this page and handed over to the Centre Superintendent. Deleting / overwriting is not allowed. Do not use lead pencil.
           </div>
@@ -59,7 +59,7 @@ export default function PrintPaperLayout({ paper }: { paper: any }) {
 
       <div className="mb-4">
         <div className="font-bold mb-4">
-          Q1. <span className="underline">Fill the relevant bubble against each question according to curriculum. Each part carries one mark.</span>
+          Q1. <span className="underline">Fill the relevant bubble against each question according to curriculum. Each part carries 0.5 marks. (30 Marks)</span>
         </div>
         
         {paper.sectionA_MCQs?.map((q: any, i: number) => (
@@ -80,69 +80,71 @@ export default function PrintPaperLayout({ paper }: { paper: any }) {
 
       {/* SECTION B */}
       <div className="text-center font-bold text-xl border-b-2 border-black pb-1 mb-2 mt-8">
-        SECTION – B (Marks 33)
+        SECTION – B: Subjective - Short Response Questions (Marks 18)
       </div>
       <div className="flex justify-between font-bold text-sm mb-4">
-        <div>Q2. Attempt the following questions.</div>
-        <div>(11 × 3 = 33)</div>
+        <div>Q2. Attempt all short response questions based on SLOs. Each question carries 3 marks.</div>
+        <div>(Total Marks: 18)</div>
       </div>
       
       <div className="space-y-4 mb-8">
         {paper.sectionB_Short?.map((q: any) => (
           <div key={q.part} className="flex gap-2 page-break-inside-avoid">
-            <div className="font-bold w-12 text-right shrink-0">{romanize(q.part)}.</div>
+            <div className="font-bold w-12 text-right shrink-0">Q{q.part}.</div>
             <div>
-              <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
+              <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
             </div>
           </div>
         ))}
       </div>
 
       {/* SECTION C */}
-      <div className="text-center font-bold text-xl border-b-2 border-black pb-1 mb-2 mt-8">
-        SECTION – C (Marks 20)
-      </div>
-      <div className="font-bold text-sm mb-4 border border-black inline-block px-2 py-1 w-full text-center">
-        Note: Attempt all questions. Marks of each question are given along with each question.
-      </div>
-
-      <div className="space-y-6">
-        {paper.sectionC_Long?.map((q: any) => (
-          <div key={q.qNum} className="flex gap-2 page-break-inside-avoid">
-            <div className="font-bold w-8 shrink-0">Q{q.qNum}.</div>
-            <div className="space-y-3 w-full">
-              <div className="flex gap-2">
-                <span className="font-bold shrink-0">(a)</span>
-                <span><ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown></span>
-              </div>
-              {q.optB && (
-                <div className="flex gap-2">
-                  <span className="font-bold shrink-0">(b)</span>
-                  <span><ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optB}</ReactMarkdown></span>
-                </div>
-              )}
-            </div>
+      {Array.isArray(paper.sectionC_Long) && paper.sectionC_Long.length > 0 ? (
+        <>
+          <div className="text-center font-bold text-xl border-b-2 border-black pb-1 mb-2 mt-8">
+            SECTION – C: Subjective - Extended Response Questions (Marks 12)
           </div>
-        ))}
-      </div>
+          <div className="font-bold text-sm mb-4 border border-black inline-block px-2 py-1 w-full text-center">
+            Note: Attempt all questions. Each question carries 6 marks (Part a: 3 Marks, Part b: 3 Marks). Total Marks: 12
+          </div>
+
+          <div className="space-y-6">
+            {paper.sectionC_Long?.map((q: any) => (
+              <div key={q.qNum} className="flex gap-2 page-break-inside-avoid">
+                <div className="font-bold w-8 shrink-0">Q{q.qNum}.</div>
+                <div className="space-y-3 w-full">
+                  <div>
+                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
+                  </div>
+                  {q.optB && (
+                    <div>
+                      <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optB}</ReactMarkdown>
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      ) : null}
 
       {/* --- PART 2: SOLUTIONS --- */}
       <div className="break-before-page pt-8 print:break-before-page">
-        <h1 className="text-4xl font-extrabold text-center border-b-4 border-black pb-4 mb-8">SOLUTIONS</h1>
+        <h1 className="text-4xl font-extrabold text-center border-b-4 border-black pb-4 mb-8">SOLUTIONS & MARKING SCHEME</h1>
 
         {/* Section A Key */}
-        <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black">SECTION A (MCQs) ANSWER KEY</h2>
+        <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black">SECTION A (MCQs) ANSWER KEY (60 MCQs @ 0.5 Marks = 30 Marks)</h2>
         <table className="w-full border-collapse border border-black text-sm text-center mb-8">
           <tbody>
-            {chunkArray(paper.sectionA_MCQs || [], 4).map((row: any[], rIdx: number) => (
+            {chunkArray(paper.sectionA_MCQs || [], 6).map((row: any[], rIdx: number) => (
               <tr key={rIdx}>
                 {row.map((q, cIdx) => {
                   const letterIndex = q.options.findIndex((opt: string) => opt === q.answer);
                   const letter = letterIndex >= 0 ? String.fromCharCode(65 + letterIndex) : '-';
                   return (
                     <React.Fragment key={cIdx}>
-                      <td className="border border-black font-bold bg-gray-100 p-2 w-16">{q.qNum}.</td>
-                      <td className="border border-black font-bold p-2 w-16">{letter}</td>
+                      <td className="border border-black font-bold bg-gray-100 p-2 w-12">{q.qNum}.</td>
+                      <td className="border border-black font-bold p-2 w-12">{letter}</td>
                     </React.Fragment>
                   );
                 })}
@@ -152,65 +154,57 @@ export default function PrintPaperLayout({ paper }: { paper: any }) {
         </table>
 
         {/* Section B Solutions */}
-        <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black break-before-page">SECTION B (Short Answers)</h2>
+        <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black break-before-page">SECTION B (Short Response Solutions - 18 Marks)</h2>
         <div className="space-y-6 mb-8">
           {paper.sectionB_Short?.map((q: any) => (
             <div key={q.part} className="border-2 border-black p-4 rounded-lg page-break-inside-avoid">
-              <h3 className="font-bold text-lg mb-4 border-b border-gray-400 pb-2">Part {romanize(q.part)}</h3>
+              <h3 className="font-bold text-lg mb-4 border-b border-gray-400 pb-2">Question {q.part} (3 Marks)</h3>
               
               <div className="mb-6">
                 <div className="font-bold mb-2 italic">
-                  <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
+                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
                 </div>
                 <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
                   <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansA || 'No answer provided.'}</ReactMarkdown>
                 </div>
               </div>
-
-              {q.optB && (
-                <div>
-                  <div className="text-center font-bold my-4 underline decoration-2 underline-offset-4">OR</div>
-                  <div className="font-bold mb-2 italic">
-                    <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optB}</ReactMarkdown>
-                  </div>
-                  <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
-                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansB || 'No answer provided.'}</ReactMarkdown>
-                  </div>
-                </div>
-              )}
             </div>
           ))}
         </div>
 
         {/* Section C Solutions */}
-        <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black break-before-page">SECTION C (Long Answers)</h2>
-        <div className="space-y-8">
-          {paper.sectionC_Long?.map((q: any) => (
-            <div key={q.qNum} className="border-2 border-black p-4 rounded-lg page-break-inside-avoid">
-              <h3 className="font-bold text-lg mb-4 border-b border-gray-400 pb-2">Question {q.qNum}</h3>
-              
-              <div className="mb-6">
-                <div className="font-bold mb-2 italic">
-                  (a) <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
-                </div>
-                <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
-                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansA || 'No answer provided.'}</ReactMarkdown>
-                </div>
-              </div>
+        {Array.isArray(paper.sectionC_Long) && paper.sectionC_Long.length > 0 ? (
+          <>
+            <h2 className="text-2xl font-bold mb-4 bg-gray-200 py-2 px-4 border border-black break-before-page">SECTION C (Extended Response Solutions - 12 Marks)</h2>
+            <div className="space-y-8">
+              {paper.sectionC_Long?.map((q: any) => (
+                <div key={q.qNum} className="border-2 border-black p-4 rounded-lg page-break-inside-avoid">
+                  <h3 className="font-bold text-lg mb-4 border-b border-gray-400 pb-2">Question {q.qNum} (6 Marks)</h3>
+                  
+                  <div className="mb-6">
+                    <div className="font-bold mb-2 italic">
+                      <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optA}</ReactMarkdown>
+                    </div>
+                    <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
+                      <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansA || 'No answer provided.'}</ReactMarkdown>
+                    </div>
+                  </div>
 
-              {q.optB && (
-                <div>
-                  <div className="font-bold mb-2 italic">
-                    (b) <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optB}</ReactMarkdown>
-                  </div>
-                  <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
-                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansB || 'No answer provided.'}</ReactMarkdown>
-                  </div>
+                  {q.optB && (
+                    <div>
+                      <div className="font-bold mb-2 italic">
+                        <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.optB}</ReactMarkdown>
+                      </div>
+                      <div className="pl-6 prose prose-sm max-w-none text-black prose-headings:text-black prose-a:text-black prose-strong:text-black prose-p:text-black [&_table]:border-collapse [&_th]:border [&_th]:border-black [&_td]:border [&_td]:border-black">
+                        <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{q.ansB || 'No answer provided.'}</ReactMarkdown>
+                      </div>
+                    </div>
+                  )}
                 </div>
-              )}
+              ))}
             </div>
-          ))}
-        </div>
+          </>
+        ) : null}
       </div>
 
     </div>

@@ -50,7 +50,7 @@ export default function DynamicPaperViewer({ paper }: { paper: any }) {
           <section className="space-y-6">
             <div className="border-b border-white/10 pb-4">
               <h2 className="text-2xl font-bold text-white tracking-tight">Section A (Objective Type)</h2>
-              <p className="text-text-muted text-sm mt-1">Multiple Choice Questions (12 Marks)</p>
+              <p className="text-text-muted text-sm mt-1">Multiple Choice Questions — {paper.sectionA_MCQs.length} MCQs (30 Marks — 50% Theory Marks, 0.5 Marks each)</p>
             </div>
             
             <div className="space-y-6">
@@ -94,24 +94,28 @@ export default function DynamicPaperViewer({ paper }: { paper: any }) {
         {paper.sectionB_Short && paper.sectionB_Short.length > 0 && (
           <section className="space-y-6">
             <div className="border-b border-white/10 pb-4">
-              <h2 className="text-2xl font-bold text-white tracking-tight">Section B (Short Answers)</h2>
-              <p className="text-text-muted text-sm mt-1">Answer questions with options (42 Marks)</p>
+              <h2 className="text-2xl font-bold text-white tracking-tight">Section B (Subjective / SRQs)</h2>
+              <p className="text-text-muted text-sm mt-1">Short Response Questions — {paper.sectionB_Short.length} Questions (18 Marks — 30% Theory Marks, 3 Marks each)</p>
             </div>
             
             <div className="space-y-8">
               {paper.sectionB_Short.map((q: any) => (
                 <div key={q.part} className="glass p-6 rounded-2xl relative overflow-hidden">
-                  <h3 className="text-brand-400 font-bold mb-4">Question 2 (part {q.part})</h3>
+                  <h3 className="text-brand-400 font-bold mb-4">Question {q.part} (3 Marks)</h3>
                   
                   <div className="space-y-4">
                     {/* Question Content */}
                     <div className="bg-white/5 border border-white/10 rounded-xl p-5">
-                      <p className="text-white font-medium mb-3">{q.optA}</p>
+                      <div className="text-white font-medium mb-3">
+                        <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
+                          {q.optA}
+                        </ReactMarkdown>
+                      </div>
                       {showSolutions && (
                         <div className="mt-3 p-4 bg-green-900/20 border-l-2 border-green-500 rounded-r-xl text-green-100 text-sm leading-relaxed overflow-x-auto">
                           <strong className="block text-green-400 mb-2">Model Answer:</strong>
                           {q.ansA ? (
-                            <div className="space-y-3 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-2">
+                            <div className="space-y-3 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-2 [&_pre]:bg-transparent [&_pre]:p-0 [&_pre]:m-0 [&_pre]:border-none [&_code]:bg-transparent">
                               <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
                                 {q.ansA}
                               </ReactMarkdown>
@@ -128,27 +132,31 @@ export default function DynamicPaperViewer({ paper }: { paper: any }) {
         )}
 
         {/* Section C: Long Answers */}
-        {paper.sectionC_Long && paper.sectionC_Long.length > 0 && (
+        {Array.isArray(paper.sectionC_Long) && paper.sectionC_Long.length > 0 ? (
           <section className="space-y-6 pb-20">
             <div className="border-b border-white/10 pb-4">
-              <h2 className="text-2xl font-bold text-white tracking-tight">Section C (Long/Extensive Answers)</h2>
-              <p className="text-text-muted text-sm mt-1">Detailed answers with options (26 Marks)</p>
+              <h2 className="text-2xl font-bold text-white tracking-tight">Section C (Subjective / ERQs)</h2>
+              <p className="text-text-muted text-sm mt-1">Extended Response Questions — {paper.sectionC_Long.length} Questions (12 Marks — 20% Theory Marks, 6 Marks each)</p>
             </div>
             
             <div className="space-y-8">
               {paper.sectionC_Long.map((q: any) => (
                 <div key={q.qNum} className="glass p-8 rounded-2xl relative overflow-hidden border-brand-500/20 border">
-                  <h3 className="text-brand-400 font-bold mb-6 text-xl">Question {q.qNum}</h3>
+                  <h3 className="text-brand-400 font-bold mb-6 text-xl">Question {q.qNum} (6 Marks)</h3>
                   
                   <div className="space-y-6">
                     {/* Part A */}
                     <div className="bg-white/5 border border-white/10 rounded-xl p-6">
-                      <p className="text-white font-medium mb-4 leading-relaxed"><span className="text-brand-400 font-bold mr-2">(a)</span> {q.optA}</p>
+                      <div className="text-white font-medium mb-4 leading-relaxed">
+                        <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
+                          {q.optA}
+                        </ReactMarkdown>
+                      </div>
                       {showSolutions && (
                         <div className="mt-4 p-5 bg-green-900/20 border-l-2 border-green-500 rounded-r-xl text-green-100 text-sm leading-relaxed overflow-x-auto">
                           <strong className="block text-green-400 mb-4">Detailed Model Answer:</strong>
                           {q.ansA ? (
-                            <div className="space-y-4 [&_h4]:text-green-300 [&_h4]:font-bold [&_h4]:mt-4 [&_h4]:mb-2 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-3">
+                            <div className="space-y-4 [&_h4]:text-green-300 [&_h4]:font-bold [&_h4]:mt-4 [&_h4]:mb-2 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-3 [&_pre]:bg-transparent [&_pre]:p-0 [&_pre]:m-0 [&_pre]:border-none [&_code]:bg-transparent">
                               <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
                                 {q.ansA}
                               </ReactMarkdown>
@@ -157,28 +165,35 @@ export default function DynamicPaperViewer({ paper }: { paper: any }) {
                         </div>
                       )}
                     </div>
-                    {/* Part B */}
-                    <div className="bg-white/5 border border-white/10 rounded-xl p-6">
-                      <p className="text-white font-medium mb-4 leading-relaxed"><span className="text-brand-400 font-bold mr-2">(b)</span> {q.optB}</p>
-                      {showSolutions && (
-                        <div className="mt-4 p-5 bg-green-900/20 border-l-2 border-green-500 rounded-r-xl text-green-100 text-sm leading-relaxed overflow-x-auto">
-                          <strong className="block text-green-400 mb-4">Detailed Model Answer:</strong>
-                          {q.ansB ? (
-                            <div className="space-y-4 [&_h4]:text-green-300 [&_h4]:font-bold [&_h4]:mt-4 [&_h4]:mb-2 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-3">
-                              <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                {q.ansB}
-                              </ReactMarkdown>
-                            </div>
-                          ) : 'No model answer provided.'}
+
+                    {/* Part B (if available) */}
+                    {q.optB ? (
+                      <div className="bg-white/5 border border-white/10 rounded-xl p-6">
+                        <div className="text-white font-medium mb-4 leading-relaxed">
+                          <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
+                            {q.optB}
+                          </ReactMarkdown>
                         </div>
-                      )}
-                    </div>
+                        {showSolutions && (
+                          <div className="mt-4 p-5 bg-green-900/20 border-l-2 border-green-500 rounded-r-xl text-green-100 text-sm leading-relaxed overflow-x-auto">
+                            <strong className="block text-green-400 mb-4">Detailed Model Answer:</strong>
+                            {q.ansB ? (
+                              <div className="space-y-4 [&_h4]:text-green-300 [&_h4]:font-bold [&_h4]:mt-4 [&_h4]:mb-2 [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-green-500/30 [&_th]:p-2 [&_th]:bg-green-900/40 [&_td]:border [&_td]:border-green-500/20 [&_td]:p-2 [&_p]:mb-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-3 [&_pre]:bg-transparent [&_pre]:p-0 [&_pre]:m-0 [&_pre]:border-none [&_code]:bg-transparent">
+                                <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
+                                  {q.ansB}
+                                </ReactMarkdown>
+                              </div>
+                            ) : 'No model answer provided.'}
+                          </div>
+                        )}
+                      </div>
+                    ) : null}
                   </div>
                 </div>
               ))}
             </div>
           </section>
-        )}
+        ) : null}
 
       </div>
       <PrintPaperLayout paper={paper} />

@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { prisma } from './index';
+import { prisma } from './index.js';
 import { QuestionType, Difficulty } from '@prisma/client';
 
 async function main() {
