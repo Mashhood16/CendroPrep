@@ -20,13 +20,16 @@ const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-    const paper = await prisma.generatedPaper.findFirst();
-    if (paper) {
-      const mcqs = (paper.sectionA_MCQs as any[]);
-      console.log(`Paper title: ${paper.title}`);
-      console.log(`MCQ 1:`, mcqs[0]);
-      console.log(`MCQ 2:`, mcqs[1]);
-      console.log(`MCQ 3:`, mcqs[2]);
-    }
+    const subjects = await prisma.subject.count();
+    const papers = await prisma.paper.findMany();
+    const generatedPapers = await prisma.generatedPaper.findMany();
+
+    console.log(`=== DATABASE AUDIT ===`);
+    console.log(`Total Subjects: ${subjects}`);
+    console.log(`Total Static Papers (prisma.paper): ${papers.length}`);
+    papers.forEach((p, i) => console.log(`  [Paper ${i+1}] ${p.title} (Subject ID: ${p.subjectId})`));
+
+    console.log(`Total Generated Papers (prisma.generatedPaper): ${generatedPapers.length}`);
+    generatedPapers.forEach((gp, i) => console.log(`  [GeneratedPaper ${i+1}] ${gp.title} (Subject ID: ${gp.subjectId})`));
 }
 main().catch(console.error).finally(() => prisma.$disconnect());
